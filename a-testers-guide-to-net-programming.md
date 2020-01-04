@@ -1,0 +1,4 @@
+﻿# A Tester’s Guide to .NET Programming
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/A-Testers-Guide-to-.NET-Programming.jpg" width ="241" height ="300" /></br></br>*Unlike its competitors, focuses solely on applied programming techniques for testers\n*Will appeal to both developers and testers alike; already popularized in classrooms worldwide for three years\n*Testing market is growing as more business adopt .NET technologies...<</br></br><strong>Author :</strong>  Joe Sweeney, Randal Root</br></br><strong>ISBN-10 :</strong> 9781590596005</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  606</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  19.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13000)

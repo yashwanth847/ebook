@@ -1,0 +1,4 @@
+﻿# Scaling MongoDB
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/375561443470340.jpg" width ="241" height ="300" /></br></br>Create a MongoDB cluster that will to grow to meet the needs of your application. With this short and concise ebook, you&#8217;ll get guidelines for setting up and using clusters to store a large volume of data, and learn how to access the data efficiently. In the process, you&#8217;ll understand how to make your application work with a dist...<ributed database system.</br></br><strong>Author :</strong>  Kristina Chodorow</br></br><strong>ISBN-10 :</strong> 978-1-4493-0321-1</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  62</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6477)

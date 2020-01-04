@@ -1,0 +1,4 @@
+﻿# The Fundamentals of Network Security
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/72555ebeea6df04.jpg" width ="241" height ="300" /></br></br>Here&#8217;s a practical book that introduces fundamental network security concepts, principles, and terms. It helps you identify the best type of intrusion detection system, develop organizational guidelines for passwords, set computer security policies, and perform a security review and risk assessment....<</br></br><strong>Author :</strong>  John Canavan</br></br><strong>ISBN-10 :</strong> 1-58053-176-8</br></br><strong>Year :</strong>  2001</br></br><strong>Pages :</strong>  219</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6781)

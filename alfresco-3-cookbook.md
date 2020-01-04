@@ -1,0 +1,4 @@
+﻿# Alfresco 3 Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255587ecbddbd7.jpg" width ="241" height ="300" /></br></br>Easy to follow cookbook allowing you to dive in wherever you want. Convert ideas into action using practical based recipes. A comprehensive collection of alfresco recipes covering the API, Freemarker templates, external integration, web client, and much more....<</br></br><strong>Author :</strong>  Snig Bhaumik</br></br><strong>ISBN-10 :</strong> 978-1-8495-1108-7</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  380</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  23.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5573)

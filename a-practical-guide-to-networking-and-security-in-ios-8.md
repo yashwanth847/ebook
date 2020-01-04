@@ -1,0 +1,4 @@
+﻿# A Practical Guide to Networking and Security in iOS 8
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/85559a722567a25.jpeg" width ="241" height ="300" /></br></br>This book describes how to use your iPhone, iPod touch, or iPad with iOS 8 on Wi-Fi and cellular/mobile networks securely, making connections with ease while protecting your data. It also covers Bluetooth networking, tracking an iOS device, using AirDrop and AirPlay, and solving connection problems....<</br></br><strong>Author :</strong>  Glenn Fleishman</br></br><strong>ISBN-10 :</strong> 978-0991439959</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  126</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.22 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8355)

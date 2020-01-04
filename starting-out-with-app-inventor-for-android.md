@@ -1,0 +1,4 @@
+﻿# Starting Out With App Inventor for Android
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Starting-Out-With-App-Inventor-for-Android-400x500.jpg" width ="241" height ="300" /></br></br>In Starting Out with App Inventor for Android, Tony Gaddis and Rebecca Halsey teach the fundamentals of programming while simultaneously showing students how to create fun, useful, and imaginative apps. Because App Inventor allows students to create apps and see them running on a phone, programming becomes a personally meaningful skill....<</br></br><strong>Author :</strong>  Tony Gaddis</br></br><strong>ISBN-10 :</strong> 1292080329</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  696</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  24.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12922)

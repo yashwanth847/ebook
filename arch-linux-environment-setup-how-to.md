@@ -1,0 +1,4 @@
+﻿# Arch Linux Environment Setup How-to
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/91555bfa26df341.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results.\nInstall and configure Arch Linux to set up your optimum environment for building applications\nBoot and manage services, add and remove packages\nDiscover and get to grips with the features of the Linux Kernel...<</br></br><strong>Author :</strong>  Ike Devolder</br></br><strong>ISBN-10 :</strong> 978-1-84951-972-4</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  50</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7101)

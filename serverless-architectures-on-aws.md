@@ -1,0 +1,4 @@
+﻿# Serverless Architectures on AWS
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Serverless-Architectures-on-AWS.jpg" width ="241" height ="300" /></br></br>Serverless Architectures on AWS teaches you how to build, secure and manage serverless architectures that can power the most demanding web and mobile apps. Forewords by Patrick Debois (Founder of devopsdays) and Dr. Donald F. Ferguson (Columbia University)....<</br></br><strong>Author :</strong>  Peter Sbarski</br></br><strong>ISBN-10 :</strong> 1617293822</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  376</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  28.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12091)

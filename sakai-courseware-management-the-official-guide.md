@@ -1,0 +1,4 @@
+﻿# Sakai Courseware Management: The Official Guide
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/59574ffaade6e26.jpeg" width ="241" height ="300" /></br></br>The book takes a step-by-step, practical approach and is filled with examples and illustrations. This book is written for a wide audience that includes teachers, system administrators, and first time developers. It will also appeal to the Sakai open source community, potential community members, and education decision makers....<</br></br><strong>Author :</strong>  Alan Mark Berg, Michael Korcuska</br></br><strong>ISBN-10 :</strong> 1847199402</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  503</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  19.31 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=10130)

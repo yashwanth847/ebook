@@ -1,0 +1,4 @@
+﻿# PostgreSQL: Introduction and Concepts
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/45556162a973919.jpg" width ="241" height ="300" /></br></br>The most advanced, feature-rich SQL database server available, the open-source PostgreSQL system has rapidly become a key Internet technology. PostgreSQL: Introduction and Concepts, written by a founding member of the PostgreSQL Global Development Team, provides a much-needed tutorial and real-world guide to understanding and working with th...<is complex yet essential system.</br></br><strong>Author :</strong>  Bruce Momjian</br></br><strong>ISBN-10 :</strong> 978-0-201-70331-3</br></br><strong>Year :</strong>  2000</br></br><strong>Pages :</strong>  496</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6510)

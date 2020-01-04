@@ -1,0 +1,4 @@
+﻿# Java 7 Concurrency Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/70554dee98c0977.jpg" width ="241" height ="300" /></br></br>Master all that Java 7 has to offer for concurrent programming.\nGet to grips with thread management, the Fork / Join framework, concurrency classes and much more in this book.\nA practical Cookbook packed with recipes for achieving the most important Java Concurrency tasks....<</br></br><strong>Author :</strong>  Javier Fernandez Gonzalez</br></br><strong>ISBN-10 :</strong> 978-1-8496-8788-1</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  364</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5844)

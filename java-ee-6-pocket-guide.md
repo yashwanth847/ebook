@@ -1,0 +1,4 @@
+﻿# Java EE 6 Pocket Guide
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/70554deeac50de3.jpg" width ="241" height ="300" /></br></br>This handy guide provides an overview of Java Enterprise Edition 6&#8217;s main technologies and includes extensive, easy-to-understand code samples that demonstrate the platform&#8217;s many improvements. You&#8217;ll quickly understand how Java EE 6 simplifies the process of developing and deploying web and enterprise applications....<</br></br><strong>Author :</strong>  Arun Gupta</br></br><strong>ISBN-10 :</strong> 978-1-4493-3668-4</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  208</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5848)

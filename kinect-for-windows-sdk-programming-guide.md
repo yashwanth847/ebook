@@ -1,0 +1,4 @@
+﻿# Kinect for Windows SDK Programming Guide
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/805568062966f8c.jpg" width ="241" height ="300" /></br></br>Building application using Kinect for Windows SDK. Covers the Kinect for Windows SDK v1.6. A practical step-by-step tutorial to make learning easy for a beginner. A detailed discussion of all the APIs involved and the explanations of their usage in detail. Procedures for developing motion-sensing applications and also methods used to enable ...<speech recognition.</br></br><strong>Author :</strong>  Abhijit Jana</br></br><strong>ISBN-10 :</strong> 978-1-84969-238-0</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  392</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6900)

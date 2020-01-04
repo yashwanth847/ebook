@@ -1,0 +1,4 @@
+﻿# Liferay Portal Enterprise Intranets
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6557118197db282.jpeg" width ="241" height ="300" /></br></br>Learn, with the help of practical examples, how to implement a complete corporate intranet using the features of Liferay. This book is for System Administrators or experienced users (not necessarily programmers) who want to install and use Liferay in their teams or businesses without dealing with complex code. Pre-knowledge of Liferay is not...< expected for this book.</br></br><strong>Author :</strong>  Jonas X. Yuan</br></br><strong>ISBN-10 :</strong> 1847192726</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  404</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  8.34 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9985)

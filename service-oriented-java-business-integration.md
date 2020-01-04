@@ -1,0 +1,4 @@
+﻿# Service Oriented Java Business Integration
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/68554c5f1bb9e68.jpg" width ="241" height ="300" /></br></br>Vendor-independent integration of components and services through JBI explained with real-world examples. Hands-on guidance to ESB-based. Integration of loosely coupled, pluggable services. Enterprise Integration Patterns (EIP) in action, in code. ESB integration solutions using Apache open-source tools....<</br></br><strong>Author :</strong>  Binildas A. Christudas</br></br><strong>ISBN-10 :</strong> 978-1-84719-440-4</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  436</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5735)

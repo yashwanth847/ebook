@@ -1,0 +1,4 @@
+﻿# Oracle WebLogic Server 12c
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/66555705c1b9f1c.jpg" width ="241" height ="300" /></br></br>Master the new deployment and configuration features within Oracle WebLogic 12c. Get to grips with existing and new integrated services like Coherence, JDBC, JMS, and much more. Learn to work with other components like OVAB, Oracle Traffic Director, and the Exabus Layer. Understand integration with Cloud management such as Enterprise Manager...< 12c Cloud Control.</br></br><strong>Author :</strong>  Michel Schildmeijer</br></br><strong>ISBN-10 :</strong> 978-1-8496-8718-8</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  144</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5672)

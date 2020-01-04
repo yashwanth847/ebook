@@ -1,0 +1,4 @@
+﻿# Instant Autodesk Revit 2013 Customization with .NET How-to [Instant]
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/215564114b9cff5.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Master the fundamentals of programing with the Autodesk Revit 2013 API. Customize your own ribbon controls according to personal preference. Save time and effort by learning how to manipulate elements and their data....<</br></br><strong>Author :</strong>  Don Rudder</br></br><strong>ISBN-10 :</strong> 978-1-84968-842-0</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  70</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6109)

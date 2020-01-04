@@ -1,0 +1,4 @@
+﻿# Windows PowerShell Pocket Reference, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/10558ea2099de5d.jpg" width ="241" height ="300" /></br></br>This portable reference to Windows PowerShell 3.0 summarizes the command shell and scripting language, and provides a concise reference to the many tasks that make PowerShell so useful. If you&#8217;re a busy Windows administrator, and don&#8217;t have time to plow through huge books or search online, this is the ideal on-the-job tool....<</br></br><strong>Author :</strong>  Lee Holmes</br></br><strong>ISBN-10 :</strong> 978-1-4493-2096-6</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  208</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7935)

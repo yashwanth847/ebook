@@ -1,0 +1,4 @@
+﻿# JavaScript Unit Testing
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/585553d826597e1.jpg" width ="241" height ="300" /></br></br>Learn and understand, using practical examples, synchronous and asynchronous JavaScript unit testing. Cover the most popular JavaScript Unit Testing Frameworks including Jasmine, YUITest, QUnit, and JsTestDriver. Automate and integrate your JavaScript Unit Testing for ease and efficiency....<</br></br><strong>Author :</strong>  Hazem Saleh</br></br><strong>ISBN-10 :</strong> 978-1-78216-062-5</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  191</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5473)

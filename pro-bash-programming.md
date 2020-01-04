@@ -1,0 +1,4 @@
+﻿# Pro Bash Programming
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/91555bf9a08915e.jpg" width ="241" height ="300" /></br></br>The bash shell is a complete programming language, not merely a glue to combine external Linux commands. By taking full advantage of shell internals, shell programs can perform as snappily as utilities written in C or other compiled languages. And you will see how, without assuming Unix lore, you can write professional bash 4.0 programs thro...<ugh standard programming techniques.</br></br><strong>Author :</strong>  Chris Johnson</br></br><strong>ISBN-10 :</strong> 978-1-4302-1997-2</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  350</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7074)

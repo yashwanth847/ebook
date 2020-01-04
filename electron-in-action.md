@@ -1,0 +1,4 @@
+﻿# Electron in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Electron-in-Action.jpg" width ="241" height ="300" /></br></br>Electron in Action guides you, step-by-step, as you learn to build cross-platform desktop applications that run on Windows, OSX, and Linux. By the end of the book, you&#8217;ll be ready to build simple, snappy applications using JavaScript, Node, and the Electron framework....<</br></br><strong>Author :</strong>  Steve Kinney</br></br><strong>ISBN-10 :</strong> 1617294144</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  376</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  14.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12743)

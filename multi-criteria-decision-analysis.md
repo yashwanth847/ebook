@@ -1,0 +1,4 @@
+﻿# Multi-criteria Decision Analysis
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/76557ed7afd9838.jpg" width ="241" height ="300" /></br></br>This book presents an introduction to MCDA followed by more detailed chapters about each of the leading methods used in this field. Comparison of methods and software is also featured to enable readers to choose the most appropriate method needed in their research....<</br></br><strong>Author :</strong>  Alessio Ishizaka, Philippe Nemery</br></br><strong>ISBN-10 :</strong> 978-1-119-97407-9</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  310</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7582)

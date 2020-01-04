@@ -1,0 +1,4 @@
+﻿# Spring for Android Starter
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/23555c79c8b20b5.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Learn what Spring for Android adds to the Android developer toolkit. Learn how to debug your Android communication layer observing HTTP requests and responses. Use OAuth to authenticate your users and your app against popular service providers (Goog...<le, Facebook, Twitter, and so on).</br></br><strong>Author :</strong>  Anthony Dahanne</br></br><strong>ISBN-10 :</strong> 978-1-78216-190-5</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  60</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6230)

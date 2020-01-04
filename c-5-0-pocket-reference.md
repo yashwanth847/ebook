@@ -1,0 +1,4 @@
+﻿# C# 5.0 Pocket Reference
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/35555072c047219.jpg" width ="241" height ="300" /></br></br>When you need answers for using C#5.0, this tightly focused and practical book tells you exactly what you need to know &#8211; without long introductions or bloated samples. Succinct and easy to browse, C# 5.0 Pocket Reference is ideal as quick reference &#8211; or as a guide to get you rapidly up to speed if you already know Java, C++, or a...<n earlier version of C#.</br></br><strong>Author :</strong>  Ben Albahari, Joseph Albahari</br></br><strong>ISBN-10 :</strong> 978-1-4493-2017-1</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  216</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5259)

@@ -1,0 +1,4 @@
+﻿# Lighttpd
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/65571181854f065.jpeg" width ="241" height ="300" /></br></br>This is your fast guide to getting started and getting inside the Lighttpd web server. Written from a developer&#8217;s perspective, this book helps you understand Lighttpd, and get it set up as securely and quickly as possible. This book is for System Administrators or Web Developers seeking a lean deployment platform for web applications o...<r who want to switch to a &#8220;lighter&#8221; web server than Apache.</br></br><strong>Author :</strong>  Andre Bogus</br></br><strong>ISBN-10 :</strong> 1847192106</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  253</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.15 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9981)

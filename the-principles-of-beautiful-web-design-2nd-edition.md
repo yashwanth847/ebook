@@ -1,0 +1,4 @@
+﻿# The Principles of Beautiful Web Design, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/4655817099d1b2c.jpg" width ="241" height ="300" /></br></br>This second edition of The Principles of Beautiful Web Design is the ideal book for people who can build websites, but are seeking the skills and knowledge to visually enhance their sites.\nThis revised, easy-to-follow guide is illustrated with beautiful, full-color examples, and leads readers through the process of creating great designs fr...<om start to finish.</br></br><strong>Author :</strong>  Jason Beaird</br></br><strong>ISBN-10 :</strong> 978-0-98057-689-4</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  170</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  14.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7407)

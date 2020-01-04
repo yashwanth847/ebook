@@ -1,0 +1,4 @@
+﻿# Drupal 6 Performance Tips
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255587e0a75097.jpg" width ="241" height ="300" /></br></br>Monitor the performance of your Drupal website and improve it. Configure a Drupal multisite environment for best performance. Lot of examples with clear explanations. Choose and use the best Drupal modules for improving your site&#8217;s performance....<</br></br><strong>Author :</strong>  T J Holowaychuk, Trevor James</br></br><strong>ISBN-10 :</strong> 978-1-84719-584-5</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  240</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5535)

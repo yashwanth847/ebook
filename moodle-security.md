@@ -1,0 +1,4 @@
+﻿# Moodle Security
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255587e8ae1a97.jpg" width ="241" height ="300" /></br></br>Moodle Security will show you how to make sure that only authorized users can access the information on your Moodle site. This may seem simple, but, every day, systems get hacked and information gets lost or misused. Imagine the consequences if that were to happen in your school. The straightforward examples in this book will help you to loc...<k down those access routes one door at a time.</br></br><strong>Author :</strong>  Darko Miletic</br></br><strong>ISBN-10 :</strong> 978-1-84951-264-0</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  204</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5560)

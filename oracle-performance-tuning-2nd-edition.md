@@ -1,0 +1,4 @@
+﻿# Oracle Performance Tuning, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/66555704d936afe.jpg" width ="241" height ="300" /></br></br>The first edition of this book became a classic for developers and DBAs. This edition offers 400 pages of updated material on Oracle features, including parallel server, parallel query, Oracle Performance Pack, disk striping and mirroring, RAID, MPPs, SMPs, distributed databases, backup and recovery, and much more....<</br></br><strong>Author :</strong>  Mark Gurry, Peter Corrigan</br></br><strong>ISBN-10 :</strong> 978-1-56592-237-2</br></br><strong>Year :</strong>  1996</br></br><strong>Pages :</strong>  968</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  26.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5626)

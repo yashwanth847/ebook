@@ -1,0 +1,4 @@
+﻿# Axure RP Starter
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/47558173c7be755.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Helping you learn the fundamentals of Axure RP, while making prototypes. Focus on only the most important features, saving you time and helping you to start using Axure RP immediately. Providing you with essential resources that will help you become...< an Axure master.</br></br><strong>Author :</strong>  Amit Daliot</br></br><strong>ISBN-10 :</strong> 978-1-84969-516-9</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  60</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7447)

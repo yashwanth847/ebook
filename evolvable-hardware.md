@@ -1,0 +1,4 @@
+﻿# Evolvable Hardware
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545663654370b72.jpeg" width ="241" height ="300" /></br></br>Evolvable hardware (EHW) refers to hardware whose architecture/structure and functions change dynamically and autonomously in order to improve its performance in carrying out tasks. The only single resource presenting both the fundamentals, and the latest advances in the field, this book teaches the basics of reconfigurable devices, why they...< are necessary and how they are designed.</br></br><strong>Author :</strong>  Tetsuya Higuchi, Xin Yao</br></br><strong>ISBN-10 :</strong> 0387243860</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  224</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  12.27 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9417)

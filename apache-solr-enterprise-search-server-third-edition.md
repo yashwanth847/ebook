@@ -1,0 +1,4 @@
+﻿# Apache Solr Enterprise Search Server, Third Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/3155c45a575dcf6.jpeg" width ="241" height ="300" /></br></br>If you are a developer who wants to learn how to get the most out of Solr in your applications, whether you are new to the field of search or have used Solr but don t know everything or simply want a good reference, this book is ideal for you. It would be helpful to have some familiarity with basic programming concepts, but no prior experien...<ce is required.</br></br><strong>Author :</strong>  David Smiley</br></br><strong>ISBN-10 :</strong> 1782161368</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  432</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.23 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8524)

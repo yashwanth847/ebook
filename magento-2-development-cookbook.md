@@ -1,0 +1,4 @@
+﻿# Magento 2 Development Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Magento-2-Development-Cookbook.jpg" width ="241" height ="300" /></br></br>With the challenges of growing an online business, Magento 2 is an open source e-commerce platform with innumerable functionalities that gives you the freedom to make on-the-fly decisions. It allows you to customize multiple levels of security permissions and enhance the look and feel of your website, and thus gives you a personalized experi...<ence in promoting your business.</br></br><strong>Author :</strong>  Bart Delvaux</br></br><strong>ISBN-10 :</strong> 1785882198</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  278</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.45 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=10834)

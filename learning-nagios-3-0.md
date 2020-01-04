@@ -1,0 +1,4 @@
+﻿# Learning Nagios 3.0
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Learning-Nagios-3.0.jpg" width ="241" height ="300" /></br></br>This book focuses on the new features of Nagios and will teach readers to secure their systems in a much improved manner. The target readers for this book are System Administrators interested in using Nagios. This book will introduce Nagios with the new features of Version 3 for System Administrators....<</br></br><strong>Author :</strong>  Wojciech Kocjan</br></br><strong>ISBN-10 :</strong> 1847195180</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  316</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.69 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11102)

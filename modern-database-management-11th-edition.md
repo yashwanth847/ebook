@@ -1,0 +1,4 @@
+﻿# Modern Database Management, 11th edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/815609c6414819a.jpeg" width ="241" height ="300" /></br></br>Focusing on what leading database practitioners say are the most important aspects to database development, Modern Database Management presents sound pedagogy and includes topics that are critical for the practical success of database professionals....<</br></br><strong>Author :</strong>  Heikki Topi, Jeffrey A. Hoffer, Ramesh Venkataraman</br></br><strong>ISBN-10 :</strong> 0132662256</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  624</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  124 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8987)

@@ -1,0 +1,4 @@
+﻿# Microsoft ASP.NET and AJAX
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/04555aa96706fb0.jpg" width ="241" height ="300" /></br></br>Rethink the way you plan, design, and build Web applications &#8211; with expert guidance from Web development luminary Dino Esposito. Whether giving legacy sites a much-needed tune-up &#8211; or architecting rich Internet applications from the ground up &#8211; you&#8217;ll learn pragmatic approaches to AJAX development that you can employ ...<today.</br></br><strong>Author :</strong>  Dino Esposito</br></br><strong>ISBN-10 :</strong> 978-0-73562-621-8</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  352</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5922)

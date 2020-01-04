@@ -1,0 +1,4 @@
+﻿# Microsoft Word 2013 Plain & Simple
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/39556f0845b7e53.jpg" width ="241" height ="300" /></br></br>Get the full-color, visual guide that makes learning Microsoft Word 2013 plain and simple! Follow the book&#8217;s easy steps and screenshots and clear, concise language to learn the simplest ways to create and share documents....<</br></br><strong>Author :</strong>  Jay Freedman</br></br><strong>ISBN-10 :</strong> 978-0-73566-938-3</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  480</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  35.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7292)

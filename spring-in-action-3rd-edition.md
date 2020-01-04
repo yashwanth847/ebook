@@ -1,0 +1,4 @@
+﻿# Spring in Action, 3rd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/50554da144e271c.jpg" width ="241" height ="300" /></br></br>Totally revised for Spring 3.0, this book is a hands-on guide to the Spring Framework. It covers the latest features, tools, and practices including Spring MVC, REST, Security, Web Flow, and more. Following short code snippets and an ongoing example developed throughout the book, you&#8217;ll learn how to build simple and efficient J2EE appl...<ications.</br></br><strong>Author :</strong>  Craig Walls</br></br><strong>ISBN-10 :</strong> 978-1-935-18235-1</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  424</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5356)

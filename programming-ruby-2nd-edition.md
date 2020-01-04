@@ -1,0 +1,4 @@
+﻿# Programming Ruby, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545556d6fee4cda.jpg" width ="241" height ="300" /></br></br>The Pickaxe book, named for the tool on the cover, is the definitive reference to Ruby, a highly-regarded, fully object-oriented programming language. This Second Edition has more than 200 pages of new content, and substantial enhancements to the original, covering all the new and improved language features of Ruby 1.8 and standard library m...<odules.</br></br><strong>Author :</strong>  Andy Hunt, Chad Fowler, Dave Thomas</br></br><strong>ISBN-10 :</strong> 978-0-9745-1405-5</br></br><strong>Year :</strong>  2004</br></br><strong>Pages :</strong>  864</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5389)

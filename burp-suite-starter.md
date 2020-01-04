@@ -1,0 +1,4 @@
+﻿# Burp Suite Starter
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/83554e1ea7c7a6a.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Intercept HTTP/S requests with Burp Proxy. Tamper and analyze responses. Perform enumeration using the Burp Suite Map and Spider. Launch an automatic scan with Burp Scanner. Automate attacks using Burp Intruder....<</br></br><strong>Author :</strong>  Luca Carettoni</br></br><strong>ISBN-10 :</strong> 978-1-84969-518-3</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  60</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5873)

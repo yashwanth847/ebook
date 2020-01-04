@@ -1,0 +1,4 @@
+﻿# Building Web Sites All-in-One Desk Reference For Dummies
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/30555986c8a567f.jpg" width ="241" height ="300" /></br></br>Whether you&#8217;re building a site to keep in touch with others, sell products, or promote a cause, you want to make sure yours stands out in the crowd. This handy reference shows you how to design an accessible site, create graphics and navigation menus, build forms, insert sound and video, and keep your visitors coming back for more....<</br></br><strong>Author :</strong>  Claudia Snell, Doug Sahlin</br></br><strong>ISBN-10 :</strong> 978-0-470-12720-9</br></br><strong>Year :</strong>  2007</br></br><strong>Pages :</strong>  768</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  33.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5120)

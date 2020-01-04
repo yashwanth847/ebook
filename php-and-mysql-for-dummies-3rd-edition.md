@@ -1,0 +1,4 @@
+﻿# PHP and MySQL For Dummies, 3rd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/PHP-and-MySQL-For-Dummies-3rd-Edition.jpg" width ="241" height ="300" /></br></br>Been thinking of creating a high-quality interactive Web site? This book is just what you need to get started! Here&#8217;s the fun and easy way(r) to develop a Web application in PHP 4, 5, or 6 and MySQL 5, test your software, enable your Web pages to display, change, and move database information, and much more....<</br></br><strong>Author :</strong>  Janet Valade</br></br><strong>ISBN-10 :</strong> 978-0-470-09600-0</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  456</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=10488)

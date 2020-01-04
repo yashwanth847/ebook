@@ -1,0 +1,4 @@
+﻿# Manage Partitions with GParted How-to
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/18556714955b765.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Full of practical examples including screen shots, additional tips, and clear step-by-step instructions\nCreate and move partitions without data loss Identify and manage partitions on all of your disk devices....<</br></br><strong>Author :</strong>  Curtis Gedak</br></br><strong>ISBN-10 :</strong> 978-1-84951-982-3</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  80</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6040)

@@ -1,0 +1,4 @@
+﻿# Wireless Home Networking For Dummies
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255601e05ca7eb.jpg" width ="241" height ="300" /></br></br>Thinking of going wireless? It&#8217;s not as scary as it sounds! This fast and fun guidebook helps you decide what you need, install it, and get the most from all its cool options. Your PCs can share printers while you groove to your favorite MP3s and the family shares quality video game time &#8211; all from anywhere!...<</br></br><strong>Author :</strong>  Danny Briere, Pat Hurley, Walter Bruce III</br></br><strong>ISBN-10 :</strong> 978-0-7645-4426-2</br></br><strong>Year :</strong>  2003</br></br><strong>Pages :</strong>  380</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6555)

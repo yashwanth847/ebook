@@ -1,0 +1,4 @@
+﻿# Java 7 New Features Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/70554deea2906bc.jpg" width ="241" height ="300" /></br></br>Comprehensive coverage of the new features of Java 7 organized around easy-to-follow recipes. Covers exciting features such as the try-with-resources block, the monitoring of directory events, asynchronous IO and new GUI enhancements, and more. A learn-by-example based approach that focuses on key concepts to provide the foundation to solve ...<real world problems.</br></br><strong>Author :</strong>  Jennifer L. Reese, Richard M. Reese</br></br><strong>ISBN-10 :</strong> 978-1-8496-8562-7</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  384</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5846)

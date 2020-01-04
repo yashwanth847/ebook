@@ -1,0 +1,4 @@
+﻿# Professional ASP.NET 2.0 XML
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/04555aa92babfd9.jpg" width ="241" height ="300" /></br></br>You&#8217;ll also learn more about SQL Server 2005 XML features, XML serialization, and XML Web services. You&#8217;ll see how XML can be used to increase application efficiency and reach. Two helpful real-life case studies used throughout the book demonstrate the many ways that XML documents can be created, transformed, and transmitted to o...<ther systems using ASP.NET.</br></br><strong>Author :</strong>  Thiru Thangarathinam</br></br><strong>ISBN-10 :</strong> 978-0-7645-9677-3</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  575</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5910)

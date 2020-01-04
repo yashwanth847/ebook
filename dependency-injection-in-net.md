@@ -1,0 +1,4 @@
+﻿# Dependency Injection in .NET
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Dependency-Injection-in-.NET_.jpg" width ="241" height ="300" /></br></br>Dependency Injection in .NET, winner of the 2013 Jolt Awards for Productivity, presents core DI patterns in plain C#, so you&#8217;ll fully understand how DI works, covers integration with standard Microsoft technologies like ASP.NET MVC, and teaches you to use DI frameworks like Structure Map, Castle Windsor, and Unity....<</br></br><strong>Author :</strong>  Mark Seemann</br></br><strong>ISBN-10 :</strong> 1935182501</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  586</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  12.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11638)

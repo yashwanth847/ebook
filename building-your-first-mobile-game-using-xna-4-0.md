@@ -1,0 +1,4 @@
+﻿# Building your First Mobile Game using XNA 4.0
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/805568072180268.jpg" width ="241" height ="300" /></br></br>Building a 3D game for the Windows Phone 7 platform. Drawing 2D and 3D graphics on Windows Phone. Using the rich capabilities of the Windows Phone platform. Creating a custom framework step by step that will act as a base for building (future) games. An engaging and hands on beginner&#8217;s guide to Windows Phone 7 3D game development using...< XNA 4.0.</br></br><strong>Author :</strong>  Brecht Kets, Thomas Goussaert</br></br><strong>ISBN-10 :</strong> 978-1-84968-774-4</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  158</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6949)

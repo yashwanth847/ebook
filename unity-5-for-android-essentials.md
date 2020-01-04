@@ -1,0 +1,4 @@
+﻿# Unity 5 for Android Essentials
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/5655cde3b534fb3.jpeg" width ="241" height ="300" /></br></br>This book is perfect for competent Unity developers who want to learn how to develop, optimize, and publish games for Android devices in a quick and easy manner. This book assumes basic knowledge of game design concepts and/or some experience with other game technologies such as Unreal Engine 4, CryEngine, or GameMaker....<</br></br><strong>Author :</strong>  Valera Cogut</br></br><strong>ISBN-10 :</strong> 1784399191</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  200</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.47 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8614)

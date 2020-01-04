@@ -1,0 +1,4 @@
+﻿# Oracle 11G: SQL, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/745617673d22361.jpeg" width ="241" height ="300" /></br></br>ORACLE 11G: SQL is not simply a study guide; it is written for individuals who have just a basic knowledge of databases and can be utilized in a course on this latest implementation of SQL from Oracle....<</br></br><strong>Author :</strong>  Joan Casteel</br></br><strong>ISBN-10 :</strong> 1439041288</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  608</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  13.86 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9060)

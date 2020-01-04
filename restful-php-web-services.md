@@ -1,0 +1,4 @@
+﻿# RESTful PHP Web Services
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/13558eab060af06.jpg" width ="241" height ="300" /></br></br>This book targets PHP developers who want to build or make use of RESTful web services, or explore the options available to them in PHP. You will need to know the basics of PHP development, but no knowledge of REST is assumed, nor any knowledge of creating web services generally....<</br></br><strong>Author :</strong>  Samisa Abeysinghe</br></br><strong>ISBN-10 :</strong> 978-1-847195-52-4</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  220</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  12.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8016)

@@ -1,0 +1,4 @@
+﻿# Microservice Patterns
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Microservices-Patterns.jpg" width ="241" height ="300" /></br></br>Microservices Patterns teaches enterprise developers and architects how to build applications with the microservice architecture. Rather than simply advocating for the use the microservice architecture, this clearly-written guide takes a balanced, pragmatic approach, exploring both the benefits and drawbacks....<</br></br><strong>Author :</strong>  Chris Richardson</br></br><strong>ISBN-10 :</strong> 1617294543</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  520</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12799)

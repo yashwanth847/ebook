@@ -1,0 +1,4 @@
+﻿# Microsoft ADO.NET Entity Framework Step by Step
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/26555afdec78bcd.jpg" width ="241" height ="300" /></br></br>Expand your expertise &#8211; and teach yourself the fundamentals of the Microsoft ADO.NET Entity Framework 5. If you have previous programming experience but are new to the Entity Framework, this tutorial delivers the step-by-step guidance and coding exercises you need to master core topics and techniques....<</br></br><strong>Author :</strong>  John Paul Mueller</br></br><strong>ISBN-10 :</strong> 978-0-73566-416-6</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  448</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6293)

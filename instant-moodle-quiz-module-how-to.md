@@ -1,0 +1,4 @@
+﻿# Instant Moodle Quiz Module How-to
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6355587f656bc27.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Create a well categorized question bank to provide the foundation for quizzes. Provide extensive learner-centred feedback to enhance learning. Use reports to analyze learner results....<</br></br><strong>Author :</strong>  Joan Coy</br></br><strong>ISBN-10 :</strong> 978-1-84951-988-5</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  70</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5603)

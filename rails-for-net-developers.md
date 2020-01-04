@@ -1,0 +1,4 @@
+﻿# Rails for .NET Developers
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/4955817c1d8ac8e.jpg" width ="241" height ="300" /></br></br>Rails for .NET Developers introduces the joy of Ruby on Rails development to Microsoft .NET developers. This book demonstrates the essential elements of both the Ruby language and the Rails application framework, geared especially for developers already fluent in the Microsoft .NET platform....<</br></br><strong>Author :</strong>  Brian Eng, Jeff Cohen</br></br><strong>ISBN-10 :</strong> 978-1-93435-620-3</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  300</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7474)

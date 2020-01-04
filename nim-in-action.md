@@ -1,0 +1,4 @@
+﻿# Nim in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Nim-in-Action.jpg" width ="241" height ="300" /></br></br>Nim is a multi-paradigm language that offers powerful customization options with the ability to compile to everything from C to JavaScript. In Nim in Action you&#8217;ll learn how Nim compares to other languages in style and performance, master its structure and syntax, and discover unique features....<</br></br><strong>Author :</strong>  Dominik Picheta</br></br><strong>ISBN-10 :</strong> 1617293431</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  320</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12554)

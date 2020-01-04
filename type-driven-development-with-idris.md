@@ -1,0 +1,4 @@
+﻿# Type-driven Development with Idris
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Type-driven-Development-with-Idris.jpg" width ="241" height ="300" /></br></br>Type-Driven Development with Idris, written by the creator of Idris, teaches you how to improve the performance and accuracy of your programs by taking advantage of a state-of-the-art type system. This book teaches you with Idris, a language designed to support type-driven development....<</br></br><strong>Author :</strong>  Edwin Brady</br></br><strong>ISBN-10 :</strong> 1617293024</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  480</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12041)

@@ -1,0 +1,4 @@
+﻿# Salt Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/9455daad83883b2.jpeg" width ="241" height ="300" /></br></br>A step-by-step recipe based approach to infrastructure automation and configuration. The topics are explained sequentially as cookbook recipes consisting of practical tasks followed by hands-on configuration of the same with the configuration files and command line outputs of the module executions....<</br></br><strong>Author :</strong>  Anirban Saha</br></br><strong>ISBN-10 :</strong> 1784399744</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  350</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.23 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8735)

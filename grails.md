@@ -1,0 +1,4 @@
+﻿# Grails
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/10558e9e9ed9670.jpg" width ="241" height ="300" /></br></br>Java web development is notoriously tedious, but help is on the way: Grails. Using the principle of convention-over-configuration and the dynamic Groovy programming language, Grails takes the pain out of web development and brings back the fun. This book will get you up and running with Grails by putting it to use in constructing an original...<, working application from start to finish.</br></br><strong>Author :</strong>  Dave Klein</br></br><strong>ISBN-10 :</strong> 978-1-93435-646-3</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  231</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7910)

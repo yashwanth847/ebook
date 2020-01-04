@@ -1,0 +1,4 @@
+﻿# Nmap 6: Network Exploration and Security Auditing Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/63556020eb6607e.jpg" width ="241" height ="300" /></br></br>Master the basic scanning techniques for port scanning and host discovery. Perform security checks to web applications, mail servers and databases. Learn how the Nmap Scripting Engine works and develop your own scripts! 100% practical tasks, relevant and explained step-by-step with exact commands and optional arguments description....<</br></br><strong>Author :</strong>  Paulino Calderon Pale</br></br><strong>ISBN-10 :</strong> 978-1-84951-748-5</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  318</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6701)

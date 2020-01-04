@@ -1,0 +1,4 @@
+﻿# Streaming Data
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Streaming-Data.jpg" width ="241" height ="300" /></br></br>Streaming Data introduces the concepts and requirements of streaming and real-time data systems. The book is an idea-rich tutorial that teaches you to think about how to efficiently interact with fast-flowing data....<</br></br><strong>Author :</strong>  Andrew Psaltis</br></br><strong>ISBN-10 :</strong> 1617292281</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  216</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12229)

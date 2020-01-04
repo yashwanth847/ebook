@@ -1,0 +1,4 @@
+﻿# Microsoft Excel 2013 Plain & Simple
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/40556f086aba4b1.jpg" width ="241" height ="300" /></br></br>Get the guide that makes learning Microsoft Excel plain and simple! This full color, no-nonsense book shows you the quickest ways to solve a problem or learn a skill, using easy-to-follow steps and concise, straightforward language. You&#8217;ll analyze, manage, and share information in more ways than ever before....<</br></br><strong>Author :</strong>  Curtis D. Frye</br></br><strong>ISBN-10 :</strong> 978-0-73567-243-7</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  368</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  32.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7299)

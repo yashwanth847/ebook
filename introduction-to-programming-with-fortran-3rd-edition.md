@@ -1,0 +1,4 @@
+﻿# Introduction to Programming with Fortran, 3rd edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/44565d231381977.jpeg" width ="241" height ="300" /></br></br>In response to feedback from course delegates this third edition has been revised throughout. It expands on the second edition with new and updated examples in the chapters on arithmetic, i/o, character data, modules, data structuring and generic programming with minor updates to the rest of the chapters....<</br></br><strong>Author :</strong>  Ian Chivers, Jane Sleightholme</br></br><strong>ISBN-10 :</strong> 3319177001</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  704</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.03 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9339)

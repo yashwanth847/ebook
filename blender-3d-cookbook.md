@@ -1,0 +1,4 @@
+﻿# Blender 3D Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/9455daacfa5aa93.jpeg" width ="241" height ="300" /></br></br>This book is mainly aimed at professionals who already have strong 3D CGI experience using commercial packages and have now decided to try Blender. If you are looking for something more complex and in-depth than the beginner s tutorials on the Web, this book is for you. It&#8217;s also aimed at intermediate Blender users who want to develop ...<their skills with the software.</br></br><strong>Author :</strong>  Enrico Valenza</br></br><strong>ISBN-10 :</strong> 1783984880</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  452</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  36.45 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8721)

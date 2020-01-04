@@ -1,0 +1,4 @@
+﻿# Drupal 7 Multi Sites Configuration
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6355587f1b7ee2f.jpg" width ="241" height ="300" /></br></br>Prepare your server for hosting multiple sites. Configure and install several sites on one instance of Drupal. Manage and share themes and modules across the multi-site configuration. Rapidly build a multi-site testing environment with VirtualBox and Vagrant. Extend the core multi-site configuration with add-on module....<</br></br><strong>Author :</strong>  Matt Butcher</br></br><strong>ISBN-10 :</strong> 978-1-849-51800-0</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  100</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5589)

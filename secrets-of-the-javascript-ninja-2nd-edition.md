@@ -1,0 +1,4 @@
+﻿# Secrets of the JavaScript Ninja, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Secrets-of-the-JavaScript-Ninja-2nd-Edition.jpg" width ="241" height ="300" /></br></br>More than ever, the web is a universal platform for all types of applications, and JavaScript is the language of the web. If you&#8217;re serious about web development, it&#8217;s not enough to be a decent JavaScript coder. You need to be ninja-stealthy, efficient, and ready for anything. This book shows you how....<</br></br><strong>Author :</strong>  Bear Bibeault, John Resig, Josip Maras</br></br><strong>ISBN-10 :</strong> 1617292850</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  464</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11488)

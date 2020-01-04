@@ -1,0 +1,4 @@
+﻿# Dogs and Cats (I Like to Draw!)
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/8755976c834ce4a.jpeg" width ="241" height ="300" /></br></br>Do you know students who like to draw dinosaurs and other prehistoric animals? In this fun-filled title, kids will build on basic shapes to draw ten dinosaurs and other prehistoric animals in six easy steps. They&#8217;ll learn about each one along the way. Features include table of contents, art tips from the illustrator, fun facts, glossar...<y, and index.</br></br><strong>Author :</strong>  Rochelle Baltzer</br></br><strong>ISBN-10 :</strong> 978-1624020827</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  32</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.16 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8266)

@@ -1,0 +1,4 @@
+﻿# C# in Depth, 4th Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/C-in-Depth-4th-Edition.jpg" width ="241" height ="300" /></br></br>C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7. Following the expert guidance of C# legend Jon Skeet, you&#8217;ll master asynchronous functions, expression-bodied members, interpolated strings, tuples, and much more....<</br></br><strong>Author :</strong>  Jon Skeet</br></br><strong>ISBN-10 :</strong> 1617294535</br></br><strong>Year :</strong>  2019</br></br><strong>Pages :</strong>  528</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13065)

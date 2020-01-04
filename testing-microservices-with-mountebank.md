@@ -1,0 +1,4 @@
+﻿# Testing Microservices with Mountebank
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Testing-Microservices-with-Mountebank.jpg" width ="241" height ="300" /></br></br>Testing Microservices with Mountebank is your guide to the ins and outs of testing microservices with service virtualization. The book offers unique insights into microservices application design and state-of-the-art testing practices that will deepen your microservices skills and improve your applications....<</br></br><strong>Author :</strong>  Brandon Byars</br></br><strong>ISBN-10 :</strong> 1617294772</br></br><strong>Year :</strong>  2019</br></br><strong>Pages :</strong>  240</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13115)

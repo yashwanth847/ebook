@@ -1,0 +1,4 @@
+﻿# hapi.js in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/hapi.js-in-Action.jpg" width ="241" height ="300" /></br></br>Hapi.js in Action teaches you how to build modern Node-driven applications using hapi.js. Packed with examples, this book takes you from your first simple server through the skills you&#8217;ll need to build a complete application. Foreword by Eran Hammer....<</br></br><strong>Author :</strong>  Matt Harrison</br></br><strong>ISBN-10 :</strong> 1633430219</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  384</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12790)

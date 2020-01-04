@@ -1,0 +1,4 @@
+﻿# Windows 8 Administration Pocket Consultant
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/22555c74e4b5638.jpg" width ="241" height ="300" /></br></br>Portable and precise, this pocket-sized guide delivers ready answers for administering computers running Windows 8. Zero in on core operations and daily tasks using quick-reference tables, instructions, and lists. You&#8217;ll get the focused information to solve problems and get the job done &#8211; whether at your desk or in the field....<</br></br><strong>Author :</strong>  William R. Stanek</br></br><strong>ISBN-10 :</strong> 978-0-7356-6613-9</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  672</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6136)

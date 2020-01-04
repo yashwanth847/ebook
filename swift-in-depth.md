@@ -1,0 +1,4 @@
+﻿# Swift in Depth
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Swift-in-Depth.jpg" width ="241" height ="300" /></br></br>Swift is more than just a fun language to build iOS applications with. It features a host of powerful tools that, if effectively used, can help you create even better apps with clean, crystal-clear code and awesome features. Swift in Depth is designed to help you unlock these tools and quirks and get developing next-gen apps, web services, a...<nd more!</br></br><strong>Author :</strong>  Tjeerd in \'t Veen</br></br><strong>ISBN-10 :</strong> 1617295183</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  376</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13113)

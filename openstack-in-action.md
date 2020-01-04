@@ -1,0 +1,4 @@
+﻿# OpenStack in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/5156f5d5076fa3a.jpg" width ="241" height ="300" /></br></br>OpenStack in Action offers the real world use cases and step-by-step instructions you can take to develop your own cloud platform from from inception to deployment. This book guides you through the design of both the physical hardware cluster and the infrastructure services you&#8217;ll need to create a custom cloud platform....<</br></br><strong>Author :</strong>  V. K. Cody Bumgardner</br></br><strong>ISBN-10 :</strong> 1617292168</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  375</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.92 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9900)

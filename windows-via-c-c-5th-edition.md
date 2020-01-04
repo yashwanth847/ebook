@@ -1,0 +1,4 @@
+﻿# Windows via C/C++, 5th Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/48554f1d60bfb49.jpg" width ="241" height ="300" /></br></br>Master the intricacies of application development with unmanaged C++ code — straight from the experts. Jeffrey Richter’s classic book is now fully revised for Windows XP, Windows Vista, and Windows Server 2008. You get in-depth, comprehensive guidance, advanced techniques, and extensive code samples to help you program Windows–based applicat...<ions.</br></br><strong>Author :</strong>  Christophe Nasarre, Jeffrey Richter</br></br><strong>ISBN-10 :</strong> 978-0735663770</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  801</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5295)

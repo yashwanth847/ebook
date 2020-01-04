@@ -1,0 +1,4 @@
+﻿# Rails 4 in Action, Second Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/0055f32d179aad0.jpeg" width ="241" height ="300" /></br></br>Rails 4 in Action is a comprehensive introduction to Rails that guides you hands-on through all you&#8217;ll need to become a competent and confident Rails developer. In it, you&#8217;ll master Rails 4 by developing a ticket-tracking application that includes RESTful routing, authentication and authorization, file uploads, email, and more....<</br></br><strong>Author :</strong>  Steve Klabnik</br></br><strong>ISBN-10 :</strong> 1617291099</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  576</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.67 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8763)

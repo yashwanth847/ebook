@@ -1,0 +1,4 @@
+﻿# Liferay Portal Systems Development
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Liferay-Portal-Systems-Development.jpg" width ="241" height ="300" /></br></br>This book is for Java developers who don&#8217;t need any prior experience with Liferay portal. Although Liferay portal makes heavy use of open source frameworks, no prior experience of using these is assumed....<</br></br><strong>Author :</strong>  Jonas X. Yuan</br></br><strong>ISBN-10 :</strong> 1849515980</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  546</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.55 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11158)

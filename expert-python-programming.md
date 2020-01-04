@@ -1,0 +1,4 @@
+﻿# Expert Python Programming
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/68555585b418e2f.jpg" width ="241" height ="300" /></br></br>Expert Python Programming shows how Python development should be done with best practices and expert design tips. This book is for Python developers who are already building applications, but want to build better ones by applying best practices and new development techniques to their projects. The reader is expected to have a sound backgroun...<d in Python programming.</br></br><strong>Author :</strong>  Tarek Ziade</br></br><strong>ISBN-10 :</strong> 978-1-847194-94-7</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  372</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5747)

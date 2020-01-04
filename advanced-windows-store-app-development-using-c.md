@@ -1,0 +1,4 @@
+﻿# Advanced Windows Store App Development Using C#
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7b9db84ef.jpg" width ="241" height ="300" /></br></br>Prepare for Microsoft Exam 70-485 &#8211; and help demonstrate your real-world mastery of building Windows Store apps with C#. Designed for experienced developers ready to advance their status, Exam Ref focuses on the critical &#8211; thinking and decision &#8211; making acumen needed for success at the MCSD level....<</br></br><strong>Author :</strong>  Roberto Brunetti, Vanni Boncinelli</br></br><strong>ISBN-10 :</strong> 978-0-73567-686-2</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  464</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  50.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7706)

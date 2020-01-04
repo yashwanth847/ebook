@@ -1,0 +1,4 @@
+﻿# Google+: The Missing Manual
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/51556db0768fc4e.jpg" width ="241" height ="300" /></br></br>If you want to gain more control over your social networking activities with Google+, this jargon-free guide helps you quickly master the ins and outs of the site. Learn how to organize your contacts, hold video chats with as many as ten people, and determine exactly who may learn what about you. With this book, youâ??ll navigate Google+ wit...<h ease.</br></br><strong>Author :</strong>  Kevin Purdy</br></br><strong>ISBN-10 :</strong> 978-1-4493-1187-2</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  232</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  12.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7349)

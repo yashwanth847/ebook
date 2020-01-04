@@ -1,0 +1,4 @@
+﻿# Windows Vista For Dummies
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/89557a770ea3cd0.jpg" width ="241" height ="300" /></br></br>The thing that&#8217;s made Windows For Dummies so successful is that it&#8217;s packed with the basics you need to make Windows work. This book gets you through all the Windows Vista tasks and tripwires, including starting programs, finding files, navigating the new see-through interface, staying safe while you cruise the Internet, and much...< more.</br></br><strong>Author :</strong>  Andy Rathbone</br></br><strong>ISBN-10 :</strong> 978-0-471-75421-3</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  432</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7620)

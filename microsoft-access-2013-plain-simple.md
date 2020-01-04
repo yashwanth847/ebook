@@ -1,0 +1,4 @@
+﻿# Microsoft Access 2013 Plain & Simple
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/40556f0879a2bd4.jpg" width ="241" height ="300" /></br></br>Get the full-color, visual guide that makes learning Microsoft Access 2013 plain and simple! Follow the book&#8217;s easy steps and screenshots and clear, concise language to learn the simplest ways to build a database and sort information....<</br></br><strong>Author :</strong>  Andrew Couch</br></br><strong>ISBN-10 :</strong> 978-0-73566-944-4</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  272</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  36.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7302)

@@ -1,0 +1,4 @@
+﻿# SOA Made Simple
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/97557a98970ba86.jpg" width ="241" height ="300" /></br></br>Get to grips with clear definitions of &#8220;Service&#8221; and &#8220;Architecture&#8221; to understand the full SOA picture. Read about SOA in simple terms from Oracle ACE Directors for SOA and Middleware in this book. A concise, no-nonsense guide to demystifying Service Oriented Architecture....<</br></br><strong>Author :</strong>  Lonneke Dikmans, Ronald van Luttikhuizen</br></br><strong>ISBN-10 :</strong> 978-1-84968-416-3</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  292</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7742)

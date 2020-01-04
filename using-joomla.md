@@ -1,0 +1,4 @@
+﻿# Using Joomla
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255587d845423c.jpg" width ="241" height ="300" /></br></br>With Joomla, you don&#8217;t need to have any technical expertise or web design experience to create effective websites and web apps. Whether you&#8217;re creating your first website or building a multi-function site for a client, this book provides straightforward, hands-on instruction that makes it easy to learn this open source web conten...<t management system.</br></br><strong>Author :</strong>  Kenneth Crowder, Ron Severdia</br></br><strong>ISBN-10 :</strong> 978-0-596-80494-7</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  416</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  15.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5508)

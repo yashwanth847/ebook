@@ -1,0 +1,4 @@
+﻿# Microservices in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Morgan-Bruce.jpg" width ="241" height ="300" /></br></br>Microservices in Action is a practical book about building and deploying microservice-based applications. Written for developers and architects with a solid grasp of service-oriented development, it tackles the challenge of putting microservices into production....<</br></br><strong>Author :</strong>  Morgan Bruce, Paulo A. Pereira</br></br><strong>ISBN-10 :</strong> 1617294454</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  392</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  41 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12755)

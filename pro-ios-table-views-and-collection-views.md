@@ -1,0 +1,4 @@
+﻿# Pro iOS Table Views and Collection Views
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Pro-iOS-Table-Views-and-Collection-Views.jpg" width ="241" height ="300" /></br></br>Table views and collection views are the bread and butter of iOS apps. With them, you can create everything from the simplest of lists to fully tricked-out user interfaces. Pro iOS Table and Collection Views with Swift covers table views and collection views on all sizes of iOS devices, including the new Apple Watch....<</br></br><strong>Author :</strong>  Tim Duckett</br></br><strong>ISBN-10 :</strong> 1484212436</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  588</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13192)

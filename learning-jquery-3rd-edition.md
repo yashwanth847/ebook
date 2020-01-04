@@ -1,0 +1,4 @@
+﻿# Learning jQuery, 3rd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/28558d610c4e2af.jpg" width ="241" height ="300" /></br></br>An introduction to jQuery that requires minimal programming experience. Detailed solutions to specific client-side problems. Revised and updated version of this popular jQuery book....<</br></br><strong>Author :</strong>  Jonathan Chaffer, Karl Swedberg</br></br><strong>ISBN-10 :</strong> 978-1-8495-1654-9</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  428</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8117)

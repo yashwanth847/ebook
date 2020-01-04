@@ -1,0 +1,4 @@
+﻿# Android User Interface Development: Beginner’s Guide
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/32566f45955ade2.jpeg" width ="241" height ="300" /></br></br>This is a step-by-step guide that aims to give even a novice Android developer a good grasp of user-interface design, while working through examples, diagrams, and screenshots to showcase the various widgets and tools that the platform makes available....<</br></br><strong>Author :</strong>  Jason Morris</br></br><strong>ISBN-10 :</strong> 1849514488</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  304</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.19 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9500)

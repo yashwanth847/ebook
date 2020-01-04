@@ -1,0 +1,4 @@
+﻿# Windows Azure programming patterns for Start-ups
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/915566ab6435558.jpg" width ="241" height ="300" /></br></br>Explore the different features of Windows Azure and its unique concepts. Get to know the Windows Azure platform by code snippets and samples by a single start-up scenario throughout the whole book. A clean example scenario demonstrates the different Windows Azure features....<</br></br><strong>Author :</strong>  Riccardo Becker</br></br><strong>ISBN-10 :</strong> 978-1-8496-8560-3</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  292</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7164)

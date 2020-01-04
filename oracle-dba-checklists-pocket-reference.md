@@ -1,0 +1,4 @@
+﻿# Oracle DBA Checklists Pocket Reference
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/66555704ed08e11.jpg" width ="241" height ="300" /></br></br>In a series of easy-to-use checklists, the Oracle DBA Checklists Pocket Reference summarizes the enormous number of tasks an Oracle DBA must perform. Each section takes the stress out of DBA problem solving with a step-by-step &#8220;cookbook&#8221; approach to presenting DBA quick-reference material, making it easy to find the information y...<ou need&#8211;and find it fast.</br></br><strong>Author :</strong>  Quest Software</br></br><strong>ISBN-10 :</strong> 978-0-596-00122-3</br></br><strong>Year :</strong>  2001</br></br><strong>Pages :</strong>  80</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  0.54 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5630)

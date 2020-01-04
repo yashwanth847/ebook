@@ -1,0 +1,4 @@
+﻿# Akka in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Akka-in-Action1.jpg" width ="241" height ="300" /></br></br>Akka in Action is a comprehensive tutorial on building message-oriented systems using Akka. The book takes a hands-on approach, where each new concept is followed by an example that shows you how it works, how to implement the code, and how to (unit) test it....<</br></br><strong>Author :</strong>  Raymond Roestenburg, Rob Bakker, Rob Williams</br></br><strong>ISBN-10 :</strong> 1617291013</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  475</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11422)

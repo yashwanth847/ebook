@@ -1,0 +1,4 @@
+﻿# Mobile WiMAX
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/63556020039829a.jpg" width ="241" height ="300" /></br></br>Presenting the new IEEE 802.16m standard, this is the first book to take a systematic, top-down approach to describing Mobile WiMAX and its next generation, giving detailed algorithmic descriptions together with explanations of the principles behind the operation of individual air-interface protocols and network components....<</br></br><strong>Author :</strong>  Sassan Ahmadi</br></br><strong>ISBN-10 :</strong> 978-0-12-374964-2</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  767</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6655)

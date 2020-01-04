@@ -1,0 +1,4 @@
+﻿# Design Is a Job
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/46558170e2df0c9.jpg" width ="241" height ="300" /></br></br>Co-founder of Mule Design and raconteur Mike Monteiro wants to help you do your job better. From contracts to selling design, from working with clients to working with each other, you’ll learn why navigating the business of design is just as important as the craft of it. Cultivated from his own experience, Mike packs this brief book with kno...<wledge you can’t afford not to know.</br></br><strong>Author :</strong>  Mike Monteiro</br></br><strong>ISBN-10 :</strong> 978-1-937557-04-1,1937557049</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  149</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  13.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7421)

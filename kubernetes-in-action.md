@@ -1,0 +1,4 @@
+﻿# Kubernetes in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Kubernetes-in-Action.jpg" width ="241" height ="300" /></br></br>Kubernetes in Action is a comprehensive guide to effectively developing and running applications in a Kubernetes environment. Before diving into Kubernetes, the book gives an overview of container technologies like Docker, including how to build containers, so that even readers who haven&#8217;t used these technologies before can get up and ...<running.</br></br><strong>Author :</strong>  Marko Luksa</br></br><strong>ISBN-10 :</strong> 1617293725</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  624</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  11.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12507)

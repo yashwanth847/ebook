@@ -1,0 +1,4 @@
+﻿# Deep Learning with R
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Deep-Learning-with-R.jpg" width ="241" height ="300" /></br></br>Deep Learning with R introduces the world of deep learning using the powerful Keras library and its R language interface. The book builds your understanding of deep learning through intuitive explanations and practical examples....<</br></br><strong>Author :</strong>  Francois Chollet, J. J. Allaire</br></br><strong>ISBN-10 :</strong> 161729554X</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  360</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  19.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12614)

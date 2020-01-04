@@ -1,0 +1,4 @@
+﻿# ASP.NET Core in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/ASP.NET-Core-in-Action.jpg" width ="241" height ="300" /></br></br>ASP.NET Core is a re-imagining of the .NET Framework that frees developers from Visual Studio and Windows.\nASP.NET Core in Action is for C# developers without any web development experience who want to get started and productive using ASP.NET Core to build web applications....<</br></br><strong>Author :</strong>  Andrew Lock</br></br><strong>ISBN-10 :</strong> 1617294616</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  650</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  41.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12577)

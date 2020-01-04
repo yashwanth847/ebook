@@ -1,0 +1,4 @@
+﻿# Crackproof Your Software
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/72555ebef489ef8.jpg" width ="241" height ="300" /></br></br>This essential resource for software developers highlights the weak points in &#8220;well-protected&#8221; software, shows how crackers break common protection schemes, and how to defend against crackers. Includes in-depth discussions of anti-debugging and anti-disassembling....<</br></br><strong>Author :</strong>  Pavol Cerven</br></br><strong>ISBN-10 :</strong> 978-1-88641-179-1</br></br><strong>Year :</strong>  2002</br></br><strong>Pages :</strong>  251</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  8.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6783)

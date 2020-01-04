@@ -1,0 +1,4 @@
+﻿# Netcat Starter
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/635560212c99867.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Downloading, compiling, and installing Netcat on Windows and Linux platforms. Establish a raw network connection so you can understand how Netcat processes information using a simplistic chat interface. Establish and maintain a remote shell / back d...<oor on various operating systems.</br></br><strong>Author :</strong>  K.C. Yerrid</br></br><strong>ISBN-10 :</strong> 978-1-84951-996-0</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  50</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6714)

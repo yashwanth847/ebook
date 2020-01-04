@@ -1,0 +1,4 @@
+﻿# VMware Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/915566ab16aeb14.jpg" width ="241" height ="300" /></br></br>This book provides a look into real-world use of VMware ESX and ESXi, with step-by-step solutions for problems that occur in a wide range of environments. Written by experts with experience using VMware in a production environment, VMware Cookbook shares tips and tricks earned through trial and error, and supplies the background information ...<you need to apply them.</br></br><strong>Author :</strong>  Matthew Helmke, Ryan Troy</br></br><strong>ISBN-10 :</strong> 978-0-596-15725-8</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  304</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7150)

@@ -1,0 +1,4 @@
+﻿# Solr in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Solr-in-Action.jpg" width ="241" height ="300" /></br></br>Solr in Action is a comprehensive guide to implementing scalable search using Apache Solr. This clearly written book walks you through well-documented examples ranging from basic keyword searching to scaling a system for billions of documents and queries. It will give you a deep understanding of how to implement core Solr capabilities....<</br></br><strong>Author :</strong>  Timothy Potter, Trey Grainger</br></br><strong>ISBN-10 :</strong> 1617291021</br></br><strong>Year :</strong>  2014</br></br><strong>Pages :</strong>  664</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  22.19 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11126)

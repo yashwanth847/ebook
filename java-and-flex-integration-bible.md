@@ -1,0 +1,4 @@
+﻿# Java and Flex Integration Bible
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/88554cab8edf5e7.jpg" width ="241" height ="300" /></br></br>Providing you with invaluable information for delivering rich, cross-platform Internet applications within the enterprise and across the web, this book shows you how to fully integrate Java and Flex. Pages of examples, step-by-step instructions, and from-the-field techniques guide you through the creation of your first Java/Flex applications....<</br></br><strong>Author :</strong>  Charles A. Christiansen, Matthew Keefe</br></br><strong>ISBN-10 :</strong> 978-0-470-40074-6</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  552</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5884)

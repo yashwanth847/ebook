@@ -1,0 +1,4 @@
+﻿# Node.js in Action, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Node.js-in-Action-2nd-Edition.jpg" width ="241" height ="300" /></br></br>Node.js in Action, Second Edition is a thoroughly revised book based on the best-selling first edition. It starts at square one and guides you through all the features, techniques, and concepts you&#8217;ll need to build production-quality Node applications....<</br></br><strong>Author :</strong>  Alex R. Young, Bradley Meck, Marc Harter, Mike Cantelon, Nathan Rajlich, Tim Oxley, TJ Holowaychuk</br></br><strong>ISBN-10 :</strong> 1617292575</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  392</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  13.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13088)

@@ -1,0 +1,4 @@
+﻿# HTML5 Games Development by Example
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/80556805b5ba62d.jpg" width ="241" height ="300" /></br></br>Learn HTML5 game development by building six fun example projects. Full, clear explanations of all the essential techniques. Covers puzzle games, action games, multiplayer, and Box 2D physics. Use the Canvas with multiple layers and sprite sheets for rich graphical games. Harness CSS3 special effects to create polished, engaging puzzle games....<</br></br><strong>Author :</strong>  Makzan</br></br><strong>ISBN-10 :</strong> 978-1-8496-9126-0</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  352</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6878)

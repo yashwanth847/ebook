@@ -1,0 +1,4 @@
+﻿# Away3D 3.6 Essentials
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/40558c095e3df4d.jpg" width ="241" height ="300" /></br></br>Create stunning 3D environments with highly detailed textures. Animate and transform all types of 3D objects, including 3D Text. Eliminate the need for expensive hardware with proven Away3D optimization techniques, without compromising on visual appeal. Written in a practical and illustrative style, which will appeal to Away3D beginners and ...<Flash developers alike.</br></br><strong>Author :</strong>  Matthew Casperson</br></br><strong>ISBN-10 :</strong> 978-1-84951-206-0</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  400</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8151)

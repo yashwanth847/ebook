@@ -1,0 +1,4 @@
+﻿# Learning Android
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/23555c78e13bf6b.jpg" width ="241" height ="300" /></br></br>Want to build apps for Android devices? This book is the perfect way to master the fundamentals. Written by an expert who&#8217;s taught this mobile platform to hundreds of developers in large organizations, this gentle introduction shows experienced object-oriented programmers how to use Androidâ??s basic building blocks to create user inte...<rfaces, store data, connect to the network, and more.</br></br><strong>Author :</strong>  Marko Gargenta</br></br><strong>ISBN-10 :</strong> 978-1-4493-9050-1</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  268</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6188)

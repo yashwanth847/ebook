@@ -1,0 +1,4 @@
+﻿# Spark GraphX in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Spark-GraphX-in-Action.jpg" width ="241" height ="300" /></br></br>Spark GraphX in Action starts out with an overview of Apache Spark and the GraphX graph processing API. This example-based tutorial then teaches you how to configure GraphX and how to use it interactively. Along the way, you&#8217;ll collect practical techniques for enhancing applications and applying machine learning algorithms to graph data....<</br></br><strong>Author :</strong>  Michael Malak, Robin East</br></br><strong>ISBN-10 :</strong> 1617292524</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  280</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  17.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11244)

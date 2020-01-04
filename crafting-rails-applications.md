@@ -1,0 +1,4 @@
+﻿# Crafting Rails Applications
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/4955817c66d9902.jpg" width ="241" height ="300" /></br></br>Rails 3 is a huge step forward. You can now easily extend the framework, change its behavior, and replace whole components to bend it to your will, all without messy hacks. This pioneering book is the first resource that deep dives into the new Rails 3 APIs and shows you how to use them to write better web applications and make your day-to-d...<ay work with Rails more productive.</br></br><strong>Author :</strong>  Jose Valim</br></br><strong>ISBN-10 :</strong> 978-1-93435-673-9</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  180</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7487)

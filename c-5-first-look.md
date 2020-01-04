@@ -1,0 +1,4 @@
+﻿# C# 5 First Look
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/35555072ca3e438.jpg" width ="241" height ="300" /></br></br>C# is a wonderfully expressive and powerful language that lets you focus on your application rather than low level boilerplate. Over the last decade, the C# compiler has evolved to include many features from dynamic and functional languages, all while remaining statically typed. Most recently, it also tackles the proliferation of concurrent ...<hardware with new asynchronous programming features.</br></br><strong>Author :</strong>  Joel Martinez</br></br><strong>ISBN-10 :</strong> 978-1-84968-676-1</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  138</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5261)

@@ -1,0 +1,4 @@
+﻿# jQuery for Designers
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/28558d613f6f37e.jpg" width ="241" height ="300" /></br></br>Enhance the user experience of your site by adding useful jQuery features. Learn the basics of adding impressive jQuery effects and animations even if you&#8217;ve never written a line of JavaScript. Easy step-by-step approach shows you everything you need to know to get started improving your website with jQuery....<</br></br><strong>Author :</strong>  Natalie MacLees</br></br><strong>ISBN-10 :</strong> 978-1-8495-1670-9</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  332</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8127)

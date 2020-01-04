@@ -1,0 +1,4 @@
+﻿# Programming in C#
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7b42352e4.jpg" width ="241" height ="300" /></br></br>Prepare for Microsoft Exam 70-483 &#8211; and help demonstrate your real-world mastery of programming in C#. Designed for experienced software developers ready to advance their status, Exam Ref focuses on the critical-thinking and decision-making acumen needed for success at the Microsoft Specialist level....<</br></br><strong>Author :</strong>  Wouter de Kort</br></br><strong>ISBN-10 :</strong> 978-0-73567-682-4</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  384</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  35.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7688)

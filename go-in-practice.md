@@ -1,0 +1,4 @@
+﻿# Go in Practice
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Go-in-Practice.jpg" width ="241" height ="300" /></br></br>Go in Practice guides you through 70 real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day ...<applications.</br></br><strong>Author :</strong>  Matt Butcher, Matt Farina</br></br><strong>ISBN-10 :</strong> 1633430073</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  312</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11353)

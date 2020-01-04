@@ -1,0 +1,4 @@
+﻿# Ruby Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545556d703c7b67.jpg" width ="241" height ="300" /></br></br>From data structures and algorithms, to integration with cutting-edge technologies, the Ruby Cookbook has something for every programmer. When you need to solve a problem, don&#8217;t reinvent the wheel: look it up in the Cookbook....<</br></br><strong>Author :</strong>  Leonard Richardson, Lucas Carlson</br></br><strong>ISBN-10 :</strong> 978-0-596-52369-5</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  912</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5390)

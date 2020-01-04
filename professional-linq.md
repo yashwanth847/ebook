@@ -1,0 +1,4 @@
+﻿# Professional LINQ
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Professional-LINQ.jpg" width ="241" height ="300" /></br></br>Professional LINQ introduces experienced programmers and database developers to LINQ database queries in their native VB and C# languages. Some of the topics covered include:\n\nLINQ Queries\nLINQ and the Standard Query Operators\nProgramming with XLinq\nQuerying XML with XLinq\nMixing XML and other data models\nDLinq and Queries\nLINQ over ...<datasets\nInteroperating with ADO.NET\nLINQ and ASP.NET</br></br><strong>Author :</strong>  Scott Klein</br></br><strong>ISBN-10 :</strong> 0470041811</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  408</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12876)

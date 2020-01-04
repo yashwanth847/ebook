@@ -1,0 +1,4 @@
+﻿# Advances in Ubiquitous Networking
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/54585c766a0b97a.jpg" width ="241" height ="300" /></br></br>This volume publishes new trends and findings in hot topics related to ubiquitous computing/networking. It is the outcome of UNet &#8211; ainternational scientific event that took place on September 08-10, 2015, in the fascinating city of Casablanca, Morocco. UNet’15 is technically sponsored by IEEE Morocco Section and IEEE COMSOC Morocco Ch...<apter.</br></br><strong>Author :</strong>  Essaïd Sabir, Hicham Medromi, Mohamed Sadik</br></br><strong>ISBN-10 :</strong> 9812879897</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  563</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  24.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=10335)

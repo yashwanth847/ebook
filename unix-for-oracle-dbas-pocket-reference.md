@@ -1,0 +1,4 @@
+﻿# Unix for Oracle DBAs Pocket Reference
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90555bf8bfa149a.jpg" width ="241" height ="300" /></br></br>If you are an Oracle DBA moving to Unix from another environment such as Windows NT or IBM Mainframe, you know that the commands you need to learn are far different from those covered in most beginning Unix books. In this handy pocket-sized book, Don Burleson introduces those Unix commands that you as an Oracle DBA most need to know....<</br></br><strong>Author :</strong>  Donald K. Burleson</br></br><strong>ISBN-10 :</strong> 978-0-596-00066-0</br></br><strong>Year :</strong>  2001</br></br><strong>Pages :</strong>  110</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7029)

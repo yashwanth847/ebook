@@ -1,0 +1,4 @@
+﻿# Getting MEAN with Mongo, Express, Angular, and Node, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Getting-MEAN-with-Mongo-Express-Angular-and-Node-2nd-Edition.jpg" width ="241" height ="300" /></br></br>Getting MEAN, Second Edition teaches you how to develop full-stack web applications using the MEAN stack. This edition was completely revised and updated to cover MongoDB 4, Express 4, Angular 7, Node 11, and the latest mainstream release of JavaScript ES2015....<</br></br><strong>Author :</strong>  Clive Herber, Simon Holmes</br></br><strong>ISBN-10 :</strong> 1617294756</br></br><strong>Year :</strong>  2019</br></br><strong>Pages :</strong>  504</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13080)

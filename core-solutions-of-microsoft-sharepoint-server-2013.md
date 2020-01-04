@@ -1,0 +1,4 @@
+﻿# Core Solutions of Microsoft SharePoint Server 2013
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7b7f0c2ec.jpg" width ="241" height ="300" /></br></br>Prepare for Exam 70-331 &#8211; and help demonstrate your real-world mastery of Microsoft SharePoint Server 2013 core solutions. Designed for experienced IT professionals ready to advance their status, Exam Ref focuses on the critical-thinking and decision-making acumen needed for success at the MCSE level....<</br></br><strong>Author :</strong>  Troy Lanphier</br></br><strong>ISBN-10 :</strong> 978-0-73567-808-8</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  544</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  46.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7700)

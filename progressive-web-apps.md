@@ -1,0 +1,4 @@
+﻿# Progressive Web Apps
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Progressive-Web-Apps.jpg" width ="241" height ="300" /></br></br>Progressive Web Apps teaches you PWA design and the skills you need to build fast, reliable websites by taking you step-by-step through real world examples in this practical tutorial. Foreword by Addy Osmani, Google....<</br></br><strong>Author :</strong>  Dean Alan Hume</br></br><strong>ISBN-10 :</strong> 1617294586</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  200</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  13.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12522)

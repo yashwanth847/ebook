@@ -1,0 +1,4 @@
+﻿# Swift
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/11558ea5b36e5ad.jpg" width ="241" height ="300" /></br></br>Swift is a new programming language for iOS and OS X apps that builds on the best of C and Objective-C, without the constraints of C compatibility. Swift adopts safe programming patterns and adds modern features to make programming easier, more flexible, and more fun. Swift’s clean slate, backed by the mature and much-loved Cocoa and Cocoa T...<ouch frameworks, is an opportunity to reimagine how software development works.</br></br><strong>Author :</strong>  Apple</br></br><strong>ISBN-10 :</strong> </br></br><strong>Year :</strong>  2014</br></br><strong>Pages :</strong>  501</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7972)

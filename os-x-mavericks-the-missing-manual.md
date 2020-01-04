@@ -1,0 +1,4 @@
+﻿# OS X Mavericks: The Missing Manual
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/52556db30f4fc95.jpg" width ="241" height ="300" /></br></br>What do you get when you cross a Mac with an iPad? OS X 10.9 Mavericks. Its 200 new features include Mac versions of iPad goodies like Maps, iBooks, and iTunes Radioâ??but not a single page of instructions. Fortunately, David Pogue is back, with the expertise and humor that have made this the #1 bestselling Mac book for over 11 years straight....<</br></br><strong>Author :</strong>  David Pogue</br></br><strong>ISBN-10 :</strong> 978-1-44936-224-9</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  880</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  40.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7381)

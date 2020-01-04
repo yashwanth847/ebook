@@ -1,0 +1,4 @@
+﻿# Windows 8 and Office 2013 For Dummies, Portable Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/89557a77a65098b.jpg" width ="241" height ="300" /></br></br>Windows and Office work together to turn your PC into a productivity tool. The unique Windows 8 interface combines with updates to Office 2013 to create a new computing experience. This book offers quick answers for when you get stuck. Learn your way around the Windows 8 Start screen and Charms bar as well as Office 2013 applications....<</br></br><strong>Author :</strong>  Andy Rathbone, Wallace Wang</br></br><strong>ISBN-10 :</strong> 978-1-118-73925-9</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  480</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.5 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7650)

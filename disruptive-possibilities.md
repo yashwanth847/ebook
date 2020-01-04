@@ -1,0 +1,4 @@
+﻿# Disruptive Possibilities
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/75557ed532f3eda.jpg" width ="241" height ="300" /></br></br>In Disruptive Possibilities: How Big Data Changes Everything, Jeffrey Needham enlightens Fortune 500 enterprises about the Big Data ecosystem as they begin to channel their data from stranded silos into an accessible reservoir of possibility and discovery. This book explains where commercial supercomputing came from, as well as its impact on...< the future of computing.</br></br><strong>Author :</strong>  Jeffrey Needham</br></br><strong>ISBN-10 :</strong> 978-1-44936-9-002</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  70</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7543)

@@ -1,0 +1,4 @@
+﻿# Microsoft Windows PowerShell Step By Step
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/10558ea1f5168f2.jpg" width ="241" height ="300" /></br></br>Teach yourself the fundamentals of Windows PowerShell command line interface and scripting language. Written by a leading scripting expert, this tutorial delivers self-paced labs, timesaving tips, and hands-on sample scripts for automating Windows administration &#8211; one step at a time....<</br></br><strong>Author :</strong>  Ed Wilson</br></br><strong>ISBN-10 :</strong> 978-0-73562-395-8</br></br><strong>Year :</strong>  2007</br></br><strong>Pages :</strong>  320</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7931)

@@ -1,0 +1,4 @@
+﻿# Configuring Windows 8.1
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7bd0dc4a0.jpg" width ="241" height ="300" /></br></br>Fully updated for Windows 8.1! Prepare for Microsoft Exam 70-687 &#8211; and help demonstrate your real-world mastery of configuring Windows 8.1 in the enterprise. Designed for experienced IT professionals ready to advance their status, Exam Ref focuses on the critical-thinking and decision-making acumen needed for success at the MCSA or MCS...<E level.</br></br><strong>Author :</strong>  Joli Ballew</br></br><strong>ISBN-10 :</strong> 978-0-7356-8477-5</br></br><strong>Year :</strong>  2014</br></br><strong>Pages :</strong>  384</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  27.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7716)

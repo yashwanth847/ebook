@@ -1,0 +1,4 @@
+﻿# CompTIA Network+ Training Kit
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7b2dce69f.jpg" width ="241" height ="300" /></br></br>Ace your preparation for the skills measured by CompTIA Network+ Exam N10-005. Work at your own pace through a series of lessons and reviews that fully cover each exam objective. Then, reinforce what you&#8217;ve learned by applying your knowledge to real-world case scenarios and practice exercises. This guide is designed to help make the mo...<st of your study time.</br></br><strong>Author :</strong>  Craig Zacker</br></br><strong>ISBN-10 :</strong> 978-0-73566-275-9</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  704</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  32.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7684)

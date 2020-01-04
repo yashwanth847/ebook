@@ -1,0 +1,4 @@
+﻿# RxJS in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/RxJS-in-Action.jpg" width ="241" height ="300" /></br></br>RxJS in Action gives you the development skills you need to create reactive applications with RxJS. This book is full of theory and practical examples that build on each other and help you begin thinking in a reactive manner. Foreword by Ben Lesh, Project lead, RxJS 5....<</br></br><strong>Author :</strong>  Luis Atencio, Paul P. Daniels</br></br><strong>ISBN-10 :</strong> 1617293415</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  352</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12227)

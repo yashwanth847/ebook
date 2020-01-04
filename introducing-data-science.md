@@ -1,0 +1,4 @@
+﻿# Introducing Data Science
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Introducing-Data-Science.jpg" width ="241" height ="300" /></br></br>Introducing Data Science teaches you how to accomplish the fundamental tasks that occupy data scientists. Using the Python language and common Python libraries, you&#8217;ll experience firsthand the challenges of dealing with data at scale and gain a solid foundation in data science....<</br></br><strong>Author :</strong>  Arno Meysman, Davy Cielen, Mohamed Ali</br></br><strong>ISBN-10 :</strong> 1633430030</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  320</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  14.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11229)

@@ -1,0 +1,4 @@
+﻿# Windows 8 Plain & Simple
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/89557a775066bed.jpg" width ="241" height ="300" /></br></br>Learn the simplest ways to get things done with Windows 8!\nRun your apps, and manage your calendar and contacts; Explore the web, and send and receive email and messages; Organize your files on the PC and in the cloud with Microsoft SkyDriv; View, share, and store your own photos and videos; Play games, manage your music, and watch movies; ...<Use maps to find directions and set your location.</br></br><strong>Author :</strong>  Nancy Muir</br></br><strong>ISBN-10 :</strong> 978-0-7356-6403-6</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  336</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  28.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7633)

@@ -1,0 +1,4 @@
+﻿# OSGi Starter
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/82554e1e3ca8025.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Learn what can be done with OSGi and what it can bring to your development structure. Build your first application and deploy to an OSGi runtime that simplifies your experience. Discover an uncomplicated, conversational approach to learning OSGi for...< building and deploying modular applications.</br></br><strong>Author :</strong>  Jamie Goodyear, Johan Edstrom</br></br><strong>ISBN-10 :</strong> 978-1-84951-992-2</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  50</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5851)

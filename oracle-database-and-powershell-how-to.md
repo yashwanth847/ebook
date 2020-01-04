@@ -1,0 +1,4 @@
+﻿# Oracle Database and PowerShell How-to
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/665557062f0fa9f.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Load Oracle Data Access components and connect to Oracle databases. Retrieve, format, filter, and export data. Execute database procedures and modify database objects. Build Oracle script libraries and run automated, unattended scripts....<</br></br><strong>Author :</strong>  Geoffrey Hudik</br></br><strong>ISBN-10 :</strong> 978-1-84968-858-1</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  70</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5694)

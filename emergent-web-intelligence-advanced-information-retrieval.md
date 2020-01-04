@@ -1,0 +1,4 @@
+﻿# Emergent Web Intelligence: Advanced Information Retrieval
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/12558ea7e31398a.jpg" width ="241" height ="300" /></br></br>This volume reviews cutting-edge technologies and insights related to XML-based and multimedia information access and data retrieval. And by applying new techniques to real-world scenarios, it details how organizations can gain competitive advantages....<</br></br><strong>Author :</strong>  Aboul Ella Hassanien, Ajith Abraham, Richard Chbeir, Youakim Badr</br></br><strong>ISBN-10 :</strong> 978-1-84996-073-1,978-1-84996-074-8</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  496</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7994)

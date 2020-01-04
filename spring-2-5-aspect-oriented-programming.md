@@ -1,0 +1,4 @@
+﻿# Spring 2.5 Aspect Oriented Programming
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Spring-2.5-Aspect-Oriented-Programming.jpg" width ="241" height ="300" /></br></br>Develop real-world applications using the AOP features of the Spring framework. If you are a Java software architect, engineer, or developer and want to be able to write applications in a more modular and concise way by using Spring, then you need this book. Readers need basic knowledge of Spring and its configuration....<</br></br><strong>Author :</strong>  Massimiliano Dessì</br></br><strong>ISBN-10 :</strong> 1847194028</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  332</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  8.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12984)

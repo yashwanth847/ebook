@@ -1,0 +1,4 @@
+﻿# Pragmatic Guide to JavaScript
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/585553d7922e348.jpg" width ="241" height ="300" /></br></br>JavaScript is everywhere. It&#8217;s a key component of today&#8217;s Web a powerful, dynamic language with a rich ecosystem of professional-grade development tools, infrastructures, frameworks, and toolkits. This book will get you up to speed quickly and painlessly with the 35 key JavaScript tasks you need to know....<</br></br><strong>Author :</strong>  Christophe Porteneuve</br></br><strong>ISBN-10 :</strong> 978-1-93435-667-8</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  150</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5444)

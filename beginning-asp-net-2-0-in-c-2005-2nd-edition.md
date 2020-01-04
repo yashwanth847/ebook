@@ -1,0 +1,4 @@
+﻿# Beginning ASP.NET 2.0 in C# 2005, 2nd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Beginning-ASP.NET-2.0-in-C-2005.jpg" width ="241" height ="300" /></br></br>* Steers reader through the spectrum of ASP.NET web programming concepts.\n* Developers and programmers can learn language and theory simultaneously.\n* Professional ASP.NET developers and wannabes can master the core techniques to develop good coding practices to enhance their long-term skill set....<</br></br><strong>Author :</strong>  Julian Templeman, Matthew MacDonald</br></br><strong>ISBN-10 :</strong> 1590595726</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  1184</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  16.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=11891)

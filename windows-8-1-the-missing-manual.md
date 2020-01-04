@@ -1,0 +1,4 @@
+﻿# Windows 8.1: The Missing Manual
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/89557a779725fd3.jpg" width ="241" height ="300" /></br></br>Windows 8.1 continues the evolution of the most radical redesign in Microsoft&#8217;s history. It combines the familiar Windows desktop with a new, touchscreen-friendly world of tiles and full-screen apps. Luckily, David Pogue is back to help you make sense of itâ??with humor, authority, and 500 illustrations....<</br></br><strong>Author :</strong>  David Pogue</br></br><strong>ISBN-10 :</strong> 978-1-44937-162-3</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  952</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  52.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7647)

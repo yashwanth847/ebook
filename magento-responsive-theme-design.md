@@ -1,0 +1,4 @@
+﻿# Magento Responsive Theme Design
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/7455a4f8dd4e92b.jpeg" width ="241" height ="300" /></br></br>The book consists of a complete step-by-step tutorial that takes you through how to quickly and efficiently build your own responsive Magento theme. This book is for web designers and developers with an existing knowledge of modern HTML and CSS....<</br></br><strong>Author :</strong>  Richard Carter</br></br><strong>ISBN-10 :</strong> 978-1783980369</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  110</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.18 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8346)

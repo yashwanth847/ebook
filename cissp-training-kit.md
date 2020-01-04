@@ -1,0 +1,4 @@
+﻿# CISSP Training Kit
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/90557a7b897b2f5.jpg" width ="241" height ="300" /></br></br>Ace your preparation for Certified Information Systems Security Professional (CISSP) Exam. Work at your own pace through a series of lessons and reviews that fully cover each exam objective. Then, reinforce what you&#8217;ve learned by applying your knowledge to real-world case scenarios and practice exercises. This guide is designed to help...< make the most of your study time.</br></br><strong>Author :</strong>  David R. Miller</br></br><strong>ISBN-10 :</strong> 978-0-73565-782-3</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  816</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  112 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7702)

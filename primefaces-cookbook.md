@@ -1,0 +1,4 @@
+﻿# PrimeFaces Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/82554e1e41c7383.jpg" width ="241" height ="300" /></br></br>The first PrimeFaces book that concentrates on practical approaches rather than the theoretical ones. Readers will gain all the PrimeFaces insights required to complete their JSF projects successfully. Written in a clear, comprehensible style and addresses a wide audience on modern, trend-setting Java / JEE web development....<</br></br><strong>Author :</strong>  Mert Caliskan, Oleg Varaksin</br></br><strong>ISBN-10 :</strong> 978-1-84951-928-1</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  328</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5852)

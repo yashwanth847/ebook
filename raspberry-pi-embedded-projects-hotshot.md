@@ -1,0 +1,4 @@
+﻿# Raspberry Pi Embedded Projects Hotshot
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/335602f0e23c791.jpeg" width ="241" height ="300" /></br></br>This book is targeted towards beginners and intermediate designers of mechatronic systems and embedded system design. Some familiarity with the Raspberry Pi and Python programming is preferred but not required....<</br></br><strong>Author :</strong>  Sai Yamanoor, Srihari Yamanoor</br></br><strong>ISBN-10 :</strong> 1849696225</br></br><strong>Year :</strong>  2015</br></br><strong>Pages :</strong>  374</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.96 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=8930)

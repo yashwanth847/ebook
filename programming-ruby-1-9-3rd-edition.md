@@ -1,0 +1,4 @@
+﻿# Programming Ruby 1.9, 3rd Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545556d740cf8ab.jpg" width ="241" height ="300" /></br></br>Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.\nThis book is the only complete reference for Ruby 1.9, the very latest version of Ruby. (If you are still using Ruby 1.8, you&#8217;ll want to check out the original PickAxe.)...<</br></br><strong>Author :</strong>  Andy Hunt, Chad Fowler, Dave Thomas</br></br><strong>ISBN-10 :</strong> 978-1-93435-608-1</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  936</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5402)

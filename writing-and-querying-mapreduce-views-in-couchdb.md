@@ -1,0 +1,4 @@
+﻿# Writing and Querying MapReduce Views in CouchDB
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/375561442f7cefe.jpg" width ="241" height ="300" /></br></br>Learn how to create MapReduce views in CouchDB that let you query the document-oriented database for meaningful data. With this short and concise ebook, you&#8217;ll get step-by-step instructions and lots of sample code to create and explore several MapReduce views, using an example database you construct....<</br></br><strong>Author :</strong>  Bradley Holt</br></br><strong>ISBN-10 :</strong> 978-1-4493-0312-9</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  76</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6476)

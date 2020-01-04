@@ -1,0 +1,4 @@
+﻿# Core Data
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/27555c887a946fd.jpg" width ="241" height ="300" /></br></br>Learn the Apple Core Data APIs from the ground up. With Core Data, you can concentrate on designing the model for your application, and use the power of Core Data to do the rest. This book will take you from Core Data fundamentals to expert configurations that you will not find anywhere else. Together we&#8217;ll walk through a fullfeatured ...<application based on the Mac OS X Core Data API.</br></br><strong>Author :</strong>  Marcus S. Zarra</br></br><strong>ISBN-10 :</strong> 978-1-93435-632-6</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  256</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6321)

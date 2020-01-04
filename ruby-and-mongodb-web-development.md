@@ -1,0 +1,4 @@
+﻿# Ruby and MongoDB Web Development
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545556d76ce9914.jpg" width ="241" height ="300" /></br></br>Step-by-step instructions and practical examples to creating web applications with Ruby and MongoDB. Learn to design the object model in a NoSQL way. Create objects in Ruby and map them to MongoDB. Learn about Mongoid and MongoMapper for mapping Ruby objects to MongoDB documents. Process large datasets with MapReduce. Create geo-spatial inde...<xes or 2D indexes.</br></br><strong>Author :</strong>  Gautam Rege</br></br><strong>ISBN-10 :</strong> 978-1-8495-1502-3</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  332</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5411)

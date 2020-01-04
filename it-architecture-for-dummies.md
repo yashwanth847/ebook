@@ -1,0 +1,4 @@
+﻿# IT Architecture For Dummies
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/035566da5f94b54.jpg" width ="241" height ="300" /></br></br>An enterprise network is a complex creature. This book breaks it down into simpler bites. You&#8217;ll understand the parts, what they mean to your company, how to make technology match your business goals, and how to create an enterprise culture. Then you&#8217;ll get help with long-term planning, managing security, and getting the most fro...<m your technology.</br></br><strong>Author :</strong>  Kalani Kirk Hausman, Susan Cook</br></br><strong>ISBN-10 :</strong> 978-0-470-55423-4</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  384</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5899)

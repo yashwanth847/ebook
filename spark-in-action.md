@@ -1,0 +1,4 @@
+﻿# Spark in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Spark-in-Action.jpg" width ="241" height ="300" /></br></br>Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0....<</br></br><strong>Author :</strong>  Marko Bonaci, Petar Zecevic</br></br><strong>ISBN-10 :</strong> 9781617292606</br></br><strong>Year :</strong>  2016</br></br><strong>Pages :</strong>  472</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13320)

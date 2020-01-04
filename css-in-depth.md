@@ -1,0 +1,4 @@
+﻿# CSS in Depth
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/CSS-in-Depth.jpg" width ="241" height ="300" /></br></br>CSS in Depth exposes you to a world of CSS techniques that range from clever to mind-blowing. This instantly useful book is packed with creative examples and powerful best practices that will sharpen your technical skills and inspire your sense of design.\nForeword by Chris Coyier, Cofounder of CodePen....<</br></br><strong>Author :</strong>  Keith J. Grant</br></br><strong>ISBN-10 :</strong> 1617293458</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  472</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  14.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12496)

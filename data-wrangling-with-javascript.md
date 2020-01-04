@@ -1,0 +1,4 @@
+﻿# Data Wrangling with JavaScript
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Data-Wrangling-with-JavaScript.jpg" width ="241" height ="300" /></br></br>Data Wrangling with JavaScript is hands-on guide that will teach you how to create a JavaScript-based data processing pipeline, handle common and exotic data, and master practical troubleshooting strategies....<</br></br><strong>Author :</strong>  Ashley Davis</br></br><strong>ISBN-10 :</strong> 1617294845</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  432</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  14.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12823)

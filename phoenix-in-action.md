@@ -1,0 +1,4 @@
+﻿# Phoenix in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Phoenix-in-Action.jpg" width ="241" height ="300" /></br></br>Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir&#8217;s Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elix...<ir to get the job done.</br></br><strong>Author :</strong>  Geoffrey Lessel</br></br><strong>ISBN-10 :</strong> 1617295043</br></br><strong>Year :</strong>  2019</br></br><strong>Pages :</strong>  336</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  7.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13094)

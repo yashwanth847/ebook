@@ -1,0 +1,4 @@
+﻿# JDBC Metadata, MySQL, and Oracle Recipes
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/51564f82dbeb94f.jpeg" width ="241" height ="300" /></br></br>First book to market on metadata specific recipes related to JDBC and its use with MySQL and Oracle, databases standard to Java.\nCompliant with the new Java EE 5.\nProvides cut and paste code templates that can be immediately customized and applied in each developer’s application development....<</br></br><strong>Author :</strong>  Mahmoud Parsian</br></br><strong>ISBN-10 :</strong> 1590596374</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  506</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  12.51 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=9360)

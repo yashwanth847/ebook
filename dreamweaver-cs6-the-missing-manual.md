@@ -1,0 +1,4 @@
+﻿# Dreamweaver CS6: The Missing Manual
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/19556409cdf16c1.jpg" width ="241" height ="300" /></br></br>Dreamweaver CS6 is the most capable website design and management program yet, but there&#8217;s no printed guide to its amazing features. That&#8217;s where Dreamweaver CS6: The Missing Manual comes in. You&#8217;ll learn to use every facet of this versatile program, through jargon-free explanations and 13 hands-on tutorials....<</br></br><strong>Author :</strong>  David Sawyer McFarland</br></br><strong>ISBN-10 :</strong> 978-1-4493-1617-4</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  1032</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  43 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6056)

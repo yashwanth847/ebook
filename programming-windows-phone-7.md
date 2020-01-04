@@ -1,0 +1,4 @@
+﻿# Programming Windows Phone 7
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/61555e9376e9270.jpg" width ="241" height ="300" /></br></br>Get started building applications for Windows Phone 7 &#8211; expertly guided by award-winning author Charles Petzold. You&#8217;ll focus on the core concepts and techniques for creating apps with Microsoft XNA. Charles brings a unique combination of pragmatism and authority to his instruction &#8211; along with an eminently readable style a...<nd a wealth of hands-on examples.</br></br><strong>Author :</strong>  Charles Petzold</br></br><strong>ISBN-10 :</strong> 978-0-73565-669-7</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  408</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6521)

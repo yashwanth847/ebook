@@ -1,0 +1,4 @@
+﻿# Microsoft SQL Server 2012 Step by Step
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/295557fd797b082.jpg" width ="241" height ="300" /></br></br>Teach yourself the programming fundamentals of SQL Server 2012 &#8211; one step at a time. Ideal for beginning SQL Server database administrators and developers, this tutorial provides clear guidance and practical, learn-by-doing exercises for building database solutions that solve real-world business problems....<</br></br><strong>Author :</strong>  Patrick LeBlanc</br></br><strong>ISBN-10 :</strong> 978-0-7356-6386-2</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  432</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  11.4 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5099)

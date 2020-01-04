@@ -1,0 +1,4 @@
+﻿# Lift Web Applications How-to
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/11558ea383bc6ae.jpg" width ="241" height ="300" /></br></br>Learn something new in an Instant! A short, fast, focused guide delivering immediate results. Develop your own Lift web applications, find practical examples for many common use cases. Learn how to build responsive web applications. Hands-on recipes with accompanying source code to help you get up to speed quickly....<</br></br><strong>Author :</strong>  Torsten Uhlmann</br></br><strong>ISBN-10 :</strong> 978-1-84951-978-6</br></br><strong>Year :</strong>  2013</br></br><strong>Pages :</strong>  85</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  1.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7956)

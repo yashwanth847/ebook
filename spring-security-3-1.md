@@ -1,0 +1,4 @@
+﻿# Spring Security 3.1
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/51554da19ee2f7c.jpg" width ="241" height ="300" /></br></br>Learn to leverage the power of Spring Security to keep intruders at bay through simple examples that illustrate real world problems. Each sample demonstrates key concepts allowing you to build your knowledge of the architecture in a practical and incremental way. Filled with samples that clearly illustrate how to integrate with the technolog...<ies and frameworks of your choice.</br></br><strong>Author :</strong>  Peter Mularien, Robert Winch</br></br><strong>ISBN-10 :</strong> 978-1-84951-826-0</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  456</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5369)

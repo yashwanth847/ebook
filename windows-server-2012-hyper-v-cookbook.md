@@ -1,0 +1,4 @@
+﻿# Windows Server 2012 Hyper-V Cookbook
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/915566ab5f0620f.jpg" width ="241" height ="300" /></br></br>Take advantage of numerous Hyper-V best practices for administrators. Get to grips with migrating virtual machines between servers and old Hyper-V versions, automating tasks with PowerShell, providing a High Availability and Disaster Recovery environment, and much more. A practical Cookbook bursting with essential recipes....<</br></br><strong>Author :</strong>  Leandro Carvalho</br></br><strong>ISBN-10 :</strong> 978-1-84968-442-2</br></br><strong>Year :</strong>  2012</br></br><strong>Pages :</strong>  304</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  15 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7163)

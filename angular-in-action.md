@@ -1,0 +1,4 @@
+﻿# Angular in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Angular-in-Action.jpg" width ="241" height ="300" /></br></br>Angular in Action teaches you everything you need to build production-ready Angular applications.Thoroughly practical and packed with tricks and tips, this hands-on tutorial is perfect for web devs ready to build web applications that can handle whatever you throw at them....<</br></br><strong>Author :</strong>  Jeremy Wilken</br></br><strong>ISBN-10 :</strong> 1617293318</br></br><strong>Year :</strong>  2018</br></br><strong>Pages :</strong>  320</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  6.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12488)

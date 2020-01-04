@@ -1,0 +1,4 @@
+﻿# Drupal Multimedia
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Drupal-Multimedia.jpg" width ="241" height ="300" /></br></br>Information for Drupal administrators and site developers on all aspects of multimedia in Drupal. This book will provide information for administrators and professional site developers who are required to embed multimedia into a Drupal site. The reader needs basic knowledge of Drupal operation, but no experience of how Drupal handles multime...<dia items is expected.</br></br><strong>Author :</strong>  Aaron Winborn</br></br><strong>ISBN-10 :</strong> 9781847194602</br></br><strong>Year :</strong>  2008</br></br><strong>Pages :</strong>  264</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.8 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=13072)

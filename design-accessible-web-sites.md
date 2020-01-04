@@ -1,0 +1,4 @@
+﻿# Design Accessible Web Sites
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/12558ea7ab518d1.jpg" width ="241" height ="300" /></br></br>&#8220;Accessibility&#8221; has a reputation of being dull, dry, and unfriendly toward graphic design. But there is a better way: well-styled semantic markup that lets you provide the best possible results for all of your users. This book will help you provide images, video, Flash and PDF in an accessible way that looks great to your sighted...< users, but is still accessible to all users.</br></br><strong>Author :</strong>  Jeremy Sydik</br></br><strong>ISBN-10 :</strong> 978-1-93435-602-9</br></br><strong>Year :</strong>  2007</br></br><strong>Pages :</strong>  336</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  4.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=7983)

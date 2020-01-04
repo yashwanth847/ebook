@@ -1,0 +1,4 @@
+﻿# Dreamweaver CS5.5 Mobile and Web Development with HTML5, CSS3, and jQuery
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/19556409c900bce.jpg" width ="241" height ="300" /></br></br>Create web pages in Dreamweaver using the latest technology and approach. Add multimedia and interactivity to your websites. Optimize your websites for a wide range of platforms and build mobile apps with Dreamweaver. A practical guide filled with many examples for making the best use of Dreamweaver&#8217;s latest features....<</br></br><strong>Author :</strong>  David Karlins</br></br><strong>ISBN-10 :</strong> 978-1-8496-9158-1</br></br><strong>Year :</strong>  2011</br></br><strong>Pages :</strong>  284</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.9 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6055)

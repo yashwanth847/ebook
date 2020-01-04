@@ -1,0 +1,4 @@
+﻿# Kotlin in Action
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Kotlin-in-Action.jpg" width ="241" height ="300" /></br></br>Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices. Foreword by Andrey Breslav, Lead Designer of Kotlin....<</br></br><strong>Author :</strong>  Dmitry Jemerov, ?Svetlana Isakova</br></br><strong>ISBN-10 :</strong> 1617293296</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  360</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  9.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12437)

@@ -1,0 +1,4 @@
+﻿# Essential Docker for ASP.NET Core MVC
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/Essential-Docker-for-ASP.NET-Core-MVC.jpg" width ="241" height ="300" /></br></br>Find out how to use Docker in your ASP.NET Core MVC applications, and how containers make it easier to develop, deploy and manage those applications in production environments. Packed with examples and practical demonstrations, this book will help you deploy even large-scale, cross-platform web applications from development into production....<</br></br><strong>Author :</strong>  Adam Freeman</br></br><strong>ISBN-10 :</strong> 1484227778</br></br><strong>Year :</strong>  2017</br></br><strong>Pages :</strong>  170</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.1 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=12502)

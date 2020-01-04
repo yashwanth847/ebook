@@ -1,0 +1,4 @@
+﻿# Enterprise Integration with Ruby
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/545556d70fef2b8.jpg" width ="241" height ="300" /></br></br>Learn how the power and elegance of Ruby can make it easier to get enterprise-level applications to work together. See how Ruby can be used as the glue to combine applications in new ways, extending their lives and increasing their (and your) value to your company....<</br></br><strong>Author :</strong>  Maik Schmidt</br></br><strong>ISBN-10 :</strong> 978-0-9766-9406-9</br></br><strong>Year :</strong>  2006</br></br><strong>Pages :</strong>  360</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  2.6 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5392)

@@ -1,0 +1,4 @@
+﻿# Tapworthy
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/27555c8884818f9.jpg" width ="241" height ="300" /></br></br>So you&#8217;ve got an idea for an iPhone app &#8212; along with everyone else on the planet. Set your app apart with elegant design, efficient usability, and a healthy dollop of personality. Tapworthy takes you from concept to polished interface design with plain-spoken principles and a rich collection of visual examples for designing excep...<tional interfaces for the iPhone and iPod Touch.</br></br><strong>Author :</strong>  Josh Clark</br></br><strong>ISBN-10 :</strong> 978-1-4493-8165-3</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  320</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  10.7 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6323)

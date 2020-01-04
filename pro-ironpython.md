@@ -1,0 +1,4 @@
+﻿# Pro IronPython
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/68555585d1c5436.jpg" width ="241" height ="300" /></br></br>IronPython represents a unique direction for developers interested in working with dynamic languages within the .NET Framework. Whether you&#8217;re looking to develop applications from scratch or add functionality and maintainability to an existing application, IronPython opens many doors while providing a high-speed, high-performance langu...<age that integrates tightly with other .NET languages.</br></br><strong>Author :</strong>  Alan Harris</br></br><strong>ISBN-10 :</strong> 978-1-4302-1962-0</br></br><strong>Year :</strong>  2009</br></br><strong>Pages :</strong>  312</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3.3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5753)

@@ -1,0 +1,4 @@
+﻿# Programming Windows, 5th Edition
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/22555c7462c96ff.jpg" width ="241" height ="300" /></br></br>“Look it up in Petzold” remains the decisive last word in answering questions about Windows development. And in PROGRAMMING WINDOWS, FIFTH EDITION, the esteemed Windows Pioneer Award winner revises his classic text with authoritative coverage of the latest versions of the Windows operating system—once again drilling down to the essential API...< heart of Win32 programming</br></br><strong>Author :</strong>  Charles Petzold</br></br><strong>ISBN-10 :</strong> 079-0145199508</br></br><strong>Year :</strong>  1998</br></br><strong>Pages :</strong>  1100</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  3 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=6110)

@@ -1,0 +1,4 @@
+﻿# Sams Teach Yourself WordPress in 10 Minutes
+</br></br>
+<img class="alignnone size - full" src="https://raw.githubusercontent.com/ebooksreading/coverpdfbook/master/6255587dbb16316.jpg" width ="241" height ="300" /></br></br>Sams Teach Yourself WordPress in 10 Minutes gives you straightforward, practical answers when you need fast results. By working through its 10-minute lessons, you&#8217;ll learn everything you need to build great blogs with WordPress and WordPress.org, and reach any audience by web browser, RSS, or cell phone!...<</br></br><strong>Author :</strong>  Chuck Tomasi, Kreg Steppe</br></br><strong>ISBN-10 :</strong> 978-0-672-33120-6</br></br><strong>Year :</strong>  2010</br></br><strong>Pages :</strong>  240</br></br><strong>Language :</strong>  English</br></br><strong>File size :</strong>  5.2 MB</br></br><strong>File format :</strong> PDF</br></br>
+[DOWNLOAD PDF](https://freeitebooks.net/?p=5519)
